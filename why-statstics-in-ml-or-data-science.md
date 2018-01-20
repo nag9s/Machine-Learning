@@ -10,7 +10,7 @@ Machine learning is a branch of statistics, and blindly applying algorithms to d
 
 After you exactly understand how these ml algorithms work, You can look back to learn more statistic theories and study why these ml algorithms works.
 
-In one word, statistic helps you understand why these ml models work and how to improve them.
+**In one word, statistic helps you understand why these ml models work and how to improve them.**
 
 optimization helps you to understand how it works.
 
@@ -37,19 +37,15 @@ In the simplest case, suppose you are comparing the performance of two classifie
 
 
 
+You can implement everything without knowing any statistics, but you won’t be able to understand much \(why these things work\) without having a solid knowledge on statistics. I would say that statistics, linear algebra and optimization are the three most important prerequisites to do machine learning.
+
 **Important to know from statistics**
 
-probability
+probability - Bayes probability, conditional probability, is must-known knowledge
 
 Analysis of Variance
 
 Wilcoxon signed rank test
 
 Kruskal-Wallis test.
-
-
-
-
-
-
 
