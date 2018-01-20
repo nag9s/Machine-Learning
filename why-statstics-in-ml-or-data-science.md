@@ -31,15 +31,7 @@ If there are multiple datasets, and
 * If you want to compare two algorithms, you should try Wilcoxon signed rank test
 * If there are multiple algorithms, you should try Kruskal-Wallis test.
 
+[https://www.quora.com/How-important-it-is-to-learn-statistics-for-a-career-in-machine-learning](https://www.quora.com/How-important-it-is-to-learn-statistics-for-a-career-in-machine-learning)
 
-
-
-
-https://www.quora.com/How-important-it-is-to-learn-statistics-for-a-career-in-machine-learning
-
-In the simplest case, suppose you are comparing the performance of two classifiers A and B. A gives 90% accuracy and B gives 87% accuracy, which one is better? May be both A and B perform the 
-
-**same**
-
- statistically, but you will never know this unless you know statistics. That is how much statistics is important for understanding and interpreting results obtained from ML methods.
+In the simplest case, suppose you are comparing the performance of two classifiers A and B. A gives 90% accuracy and B gives 87% accuracy, which one is better? May be both A and B perform the **same **statistically, but you will never know this unless you know statistics. That is how much **statistics is important for understanding and interpreting results obtained from ML methods.**
 
