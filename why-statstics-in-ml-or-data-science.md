@@ -35,3 +35,21 @@ If there are multiple datasets, and
 
 In the simplest case, suppose you are comparing the performance of two classifiers A and B. A gives 90% accuracy and B gives 87% accuracy, which one is better? May be both A and B perform the **same **statistically, but you will never know this unless you know statistics. That is how much **statistics is important for understanding and interpreting results obtained from ML methods.**
 
+
+
+**Important to know from statistics**
+
+probability
+
+Analysis of Variance
+
+Wilcoxon signed rank test
+
+Kruskal-Wallis test.
+
+
+
+
+
+
+
