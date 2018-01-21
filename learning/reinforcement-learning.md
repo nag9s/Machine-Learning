@@ -36,15 +36,15 @@ Reinforcement learning Models
 * Dynamic programming
 * Temporal difference learning
 
-> https://www.quora.com/What-are-some-practical-applications-of-reinforcement-learning
+> [https://www.quora.com/What-are-some-practical-applications-of-reinforcement-learning](https://www.quora.com/What-are-some-practical-applications-of-reinforcement-learning)
 >
 > Nice Example from quora
-
-
 
 Suppose you have a dog that is not so well trained, every time the dog messes up the living room you reduce the amount of tasty foods you give it \(punishment\) and every time it behaves well you double the tasty snacks \(reward\). What will the dog eventually learn? Well, that messing up the living room is bad.
 
 This simple concept is powerful. The dog is the agent, the living room the environment, you are the source of the reward signal \(tasty snacks\). You are giving feedback to the dog, but this feedback is vague it doesn't mean anything without the context. So eventually the dog's neural networks figure out the relationship between the tasty snacks and good behavior.
 
 So in order for the dog to maximize the goal of eating more tasty snacks, it will simply behave well, never to mess with the living room again. So you can apply RL to non-computer related problems, such as this dog-living room example. Every biological entity has reinforcement learning \(RL\) built in, humans, cats and many more use it. That is why RL, if solved, can be a very powerful tool for artificial intelligence \(AI\) applications in fields like self-driving cars.
+
+It is pretty "heavily" used in robotics
 
