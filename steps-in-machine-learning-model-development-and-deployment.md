@@ -1,3 +1,7 @@
+From "statistics-for-machine book"
+
+
+
 The development and deployment of machine learning models involves a series of steps that are almost similar to the statistical modeling process, in order to develop, validate, and implement machine learning models. The steps are as follows:
 
 ** Collection of data:** Data for machine learning is collected directly from structured source data, web scrapping, API, chat interaction, and so on, as machine learning can work on both structured and unstructured data \(voice, image, and text\).
