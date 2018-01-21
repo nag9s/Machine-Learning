@@ -4,31 +4,22 @@ in a way that reflects the statistical structure of the overall collection of in
 
 of as finding patterns in the data above and beyond what would be considered noise. unsupervised problems are ones in which there’s no identified target variable.
 
+**In unsupervised learning, you have access to only input features, and don’t have an associated target variable. So what kinds of analyses can you perform if there’s no target available?   
+**The unsupervised learning approach has two main classes:
+
+■ Clustering—Use the input features to discover natural groupings in the data and to divide the data into those groups. Methods: k-means, Gaussian mixture models, and hierarchical clustering.
+
+■ Dimensionality reduction—Transform the input features into a small number of coordinates that capture most of the variability of the data. Methods: principal component analysis \(PCA\), multidimensional scaling, manifold learning.
 
 
-**In unsupervised learning, you have access to only input features, and don’t have an associated target variable. So what kinds of analyses can you perform if there’s no target available? **
-
-
-
-The unsupervised learning approach has two main classes:
-
-■ Clustering—Use the input features to discover natural groupings in the data and
-
-to divide the data into those groups. Methods: k-means, Gaussian mixture models, and hierarchical clustering.
-
-■ Dimensionality reduction—Transform the input features into a small number of
-
-coordinates that capture most of the variability of the data. Methods: principal
-
-component analysis \(PCA\), multidimensional scaling, manifold learning.
 
 
 
 Some of the goals of unsupervised learning are as follows:
 
-Discovering useful structures in large data sets without requiring a target desired output
+* Discovering useful structures in large data sets without requiring a target desired output
+* Improving learning speed for inputs
+* Building a model of the data vectors by assigning a score or probability to each possible data vector
 
-Improving learning speed for inputs
 
-Building a model of the data vectors by assigning a score or probability to each possible data vector
 
