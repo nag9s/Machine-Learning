@@ -21,7 +21,7 @@ Some examples of reinforcement learning are as follows:
 
 Reinforcement learning is like trial and error learning. The agent should discover a good policy from its experiences of the environment without losing too much reward along the way. Exploration is about finding more information about the environment while Exploitation exploits known information to maximize reward. For example: Restaurant selection: Exploitation; go to your favorite restaurant. **Exploration**; try a new restaurant. Oil drilling: **Exploitation**; drill at the best-known location. Exploration; drill at a new location.
 
-https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/551f9654-1fbf-41fd-8088-a7dbd1dc3ab1.xhtml
+From [https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/551f9654-1fbf-41fd-8088-a7dbd1dc3ab1.xhtml](https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/551f9654-1fbf-41fd-8088-a7dbd1dc3ab1.xhtml)
 
 Reinforcement learning mimics how humans learn: by interacting with environment, repeating actions for which the reward that is received is higher, and avoiding risky moves for which there is a low or negative reward as an outcome of their actions.
 
