@@ -7,5 +7,5 @@
 * [What are the most important machine learning techniques to master at this time?](what-are-the-most-important-machine-learning-techniques-to-master-at-this-time.md)
 * [Learning](learning.md)
   * [Supervised Learning](learning/supervised-learning.md)
-  * Unsupervised learning
+  * [Unsupervised learning](learning/unsupervised-learning.md)
 
