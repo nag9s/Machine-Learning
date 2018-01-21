@@ -17,19 +17,5 @@ Some examples of reinforcement learning are as follows:
 * A gazelle calf struggles to its feet minutes after being born. Half an hour later it is running at 20 miles per hour.
 * Teaching a dog a new trick--one cannot tell it what to do, but one can reward/punish it if it does the right/wrong thing. It has to figure out what it did that made it get the reward/punishment, which is known as the credit assignment problem.
 
-Reinforcement learning is like trial and error learning. The agent should discover a good
-
-policy from its experiences of the environment without losing too much reward along the
-
-way. Exploration is about finding more information about the environment while
-
-Exploitation exploits known information to maximize reward. For example:
-
-Restaurant selection: Exploitation; go to your favorite restaurant. Exploration; try
-
-a new restaurant.
-
-Oil drilling: Exploitation; drill at the best-known location. Exploration; drill at a
-
-new location.
+Reinforcement learning is like trial and error learning. The agent should discover a good policy from its experiences of the environment without losing too much reward along the way. Exploration is about finding more information about the environment while Exploitation exploits known information to maximize reward. For example: Restaurant selection: Exploitation; go to your favorite restaurant. **Exploration**; try a new restaurant. Oil drilling: **Exploitation**; drill at the best-known location. Exploration; drill at a new location.
 
