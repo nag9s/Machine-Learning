@@ -10,35 +10,12 @@ reward by trying them. The two most important distinguishing features of reinfor
 
 learning are trial and error and search and delayed reward.
 
-
-
 Some examples of reinforcement learning are as follows:
 
-A chess player making a move, the choice is informed both by planning
-
-anticipating possible replies and counter replies.
-
-An adaptive controller adjusts parameters of a petroleum refinery's operation in
-
-real time. The controller optimizes the yield/cost/quality trade-off on the basis of
-
-specified marginal costs without sticking strictly to the set points originally
-
-suggested by engineers.
-
-A gazelle calf struggles to its feet minutes after being born. Half an hour later it is
-
-running at 20 miles per hour.
-
-Teaching a dog a new trick--one cannot tell it what to do, but one can
-
-reward/punish it if it does the right/wrong thing. It has to figure out what it did
-
-that made it get the reward/punishment, which is known as the credit assignment
-
-problem.
-
-
+* A chess player making a move, the choice is informed both by planning anticipating possible replies and counter replies.
+* An adaptive controller adjusts parameters of a petroleum refinery's operation in real time. The controller optimizes the yield/cost/quality trade-off on the basis of specified marginal costs without sticking strictly to the set points originally suggested by engineers.
+* A gazelle calf struggles to its feet minutes after being born. Half an hour later it is running at 20 miles per hour.
+* Teaching a dog a new trick--one cannot tell it what to do, but one can reward/punish it if it does the right/wrong thing. It has to figure out what it did that made it get the reward/punishment, which is known as the credit assignment problem.
 
 Reinforcement learning is like trial and error learning. The agent should discover a good
 
