@@ -1,7 +1,5 @@
 This is the scenario in which multiple decisions need to be taken by an agent prior to reaching the target and it provides a reward, either +1 or -1, rather than notifying how well or how badly the agent performed across the path:
 
-
-
 From Practical Machine Learning Cookbook
 
 Reinforcement learning is the problem of getting an agent to act in the world so as to  
@@ -22,4 +20,25 @@ Some examples of reinforcement learning are as follows:
 * Teaching a dog a new trick--one cannot tell it what to do, but one can reward/punish it if it does the right/wrong thing. It has to figure out what it did that made it get the reward/punishment, which is known as the credit assignment problem.
 
 Reinforcement learning is like trial and error learning. The agent should discover a good policy from its experiences of the environment without losing too much reward along the way. Exploration is about finding more information about the environment while Exploitation exploits known information to maximize reward. For example: Restaurant selection: Exploitation; go to your favorite restaurant. **Exploration**; try a new restaurant. Oil drilling: **Exploitation**; drill at the best-known location. Exploration; drill at a new location.
+
+
+
+
+
+Reinforcement learning Models 
+
+
+
+* Markov chains - the stocks regime switching model
+* Markov chains - the multi-channel attribution model
+* Markov chains - the car rental agency service
+* Continuous Markov chains - vehicle service at the gas station
+* Monte Carlo simulations - calibrated hull and white short-rates
+* Bellman equations
+* Dynamic programming
+* Temporal difference learning
+
+
+
+
 
