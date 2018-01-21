@@ -23,11 +23,9 @@ Reinforcement learning is like trial and error learning. The agent should discov
 
 
 
+Reinforcement learning mimics how humans learn: by interacting with environment, repeating actions for which the reward that is received is higher, and avoiding risky moves for which there is a low or negative reward as an outcome of their actions.
 
-
-Reinforcement learning Models 
-
-
+Reinforcement learning Models
 
 * Markov chains - the stocks regime switching model
 * Markov chains - the multi-channel attribution model
@@ -37,8 +35,6 @@ Reinforcement learning Models
 * Bellman equations
 * Dynamic programming
 * Temporal difference learning
-
-
 
 
 
