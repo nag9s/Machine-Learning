@@ -10,4 +10,5 @@
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
+* [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 
