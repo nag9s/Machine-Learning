@@ -56,3 +56,9 @@ Both the mean and median are misleading for this set of data because neither ful
 
 
 
+## Mode
+
+
+
+
+
