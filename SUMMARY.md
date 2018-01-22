@@ -12,4 +12,5 @@
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
+  * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
 
