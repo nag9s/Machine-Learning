@@ -42,9 +42,9 @@ But what if there had been an odd number of people in the class. Both the mean a
 
 ![](/assets/wrong2.png)![](/assets/wrong4.png)
 
+Additional Problem is
 
+![](/assets/wrong5.png)Why do you think the mean and median both failed for this data? Why are they misleading?
 
-Additional Problem is 
-
-![](/assets/wrong5.png)
+Both the mean and median are misleading for this set of data because neither fully represents the typical ages of people in the class. The mean suggests that teenagers go to the class, when in fact there are none. The median also has this problem, but it can fluctuate wildly if other people join the class.
 
