@@ -22,7 +22,9 @@ What about the black and even events? This time the events aren’t mutually exc
 
 . we want to find the probability that the pocket is even, given that we already know it’s black. In other words, we want to find out how many pockets are even out of all the black ones. Out of the 18 black pockets, 10 of them are even, so
 
-
-
 ![](/assets/prob.png)
+
+ So how can we generalize this sort of problem? First of all, we need some more notation to represent  conditional probabilities
+
+, which measure the probability of one event occurring relative to another occurring.
 
