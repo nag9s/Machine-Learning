@@ -62,5 +62,9 @@ The mode of a set of data is the most popular value, the value with the highest 
 
 If a set of data has two modes, then we call the data bimodal
 
-.
+. The mode doesn’t just work with numeric data; it works with categorical data, too.  When you’re dealing with categorical data, the mode is the most frequently occurring category.
+
+
+
+![](/assets/all.png)
 
