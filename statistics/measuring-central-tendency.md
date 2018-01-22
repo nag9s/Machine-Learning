@@ -76,3 +76,9 @@ If a set of data has two modes, then we call the data bimodal
 
 
 
+Which is to use When
+
+![](/assets/choice.png)
+
+
+
