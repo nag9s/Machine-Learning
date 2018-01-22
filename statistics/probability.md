@@ -32,7 +32,9 @@ We represent conditional probability with  P\(A \| B\)
 
 The probability of A give that we know B has happened.
 
-
-
 ![](/assets/prob8.png)
+
+
+
+![](/assets/prob9.png)
 
