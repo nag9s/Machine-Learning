@@ -24,7 +24,9 @@ What about the black and even events? This time the events aren’t mutually exc
 
 ![](/assets/prob.png)
 
- So how can we generalize this sort of problem? First of all, we need some more notation to represent  conditional probabilities
+So how can we generalize this sort of problem? First of all, we need some more notation to represent  conditional probabilities
 
 , which measure the probability of one event occurring relative to another occurring.
+
+We represent conditional probabality with  P\(A \| B\)
 
