@@ -4,5 +4,5 @@ As an example, you don’t have to wade through lots of football scores when all
 
 ## But why learn statistics? {#but_why_learn_statisticsquestion_mark}
 
-Understanding what’s really going on with statistics empowers you. If you really \_get \_ statistics, you’ll be able to make objective decisions, make accurate predictions that seem inspired, and convey the message you want in the most effective way possible.
+Understanding what’s really going on with statistics empowers you. If you really _get_ statistics, you’ll be able to make objective decisions, make accurate predictions that seem inspired, and convey the message you want in the most effective way possible.
 
