@@ -16,9 +16,11 @@ What about the black and even events? This time the events aren’t mutually exc
 
 ![](/assets/prob6.png)
 
-
-
 ![](/assets/prob7.png)
+
+
+
+
 
 .
 
