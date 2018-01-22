@@ -56,5 +56,7 @@ Both the mean and median are misleading for this set of data because neither ful
 
 ## Mode
 
- The mode of a set of data is the most popular value, the value with the highest frequency. Unlike the mean and median, the mode absolutely  _has _ to be a value in the data set, and it’s the most frequent value.
+The mode of a set of data is the most popular value, the value with the highest frequency. Unlike the mean and median, the mode absolutely  _has _ to be a value in the data set, and it’s the most frequent value.
+
+![](/assets/mode1.png)
 
