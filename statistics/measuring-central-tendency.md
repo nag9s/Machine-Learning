@@ -54,11 +54,7 @@ Both the mean and median are misleading for this set of data because neither ful
 
 **It’s not really possible to pick a single age that fully represents the ages in the class.** The class is really made up of two sets of ages, those of the children and those of the parents. You can’t really represent both of these groups with a single number.
 
-
-
 ## Mode
 
-
-
-
+ The mode of a set of data is the most popular value, the value with the highest frequency. Unlike the mean and median, the mode absolutely  _has _ to be a value in the data set, and it’s the most frequent value.
 
