@@ -34,3 +34,5 @@ The probability of A give that we know B has happened.
 
 
 
+![](/assets/prob8.png)
+
