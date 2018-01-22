@@ -18,9 +18,7 @@ What about the black and even events? This time the events aren’t mutually exc
 
 ![](/assets/prob7.png)
 
-
-
 ## **Conditional Probability**
 
-.
+. we want to find the probability that the pocket is even, given that we already know it’s black. In other words, we want to find out how many pockets are even out of all the black ones. Out of the 18 black pockets, 10 of them are even, so
 
