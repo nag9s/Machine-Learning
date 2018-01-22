@@ -28,5 +28,9 @@ So how can we generalize this sort of problem? First of all, we need some more n
 
 , which measure the probability of one event occurring relative to another occurring.
 
-We represent conditional probabality with  P\(A \| B\)
+We represent conditional probability with  P\(A \| B\)
+
+
+
+ The probability of A give that we know B has happened.
 
