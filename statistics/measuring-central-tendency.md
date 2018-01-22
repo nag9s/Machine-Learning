@@ -42,3 +42,9 @@ But what if there had been an odd number of people in the class. Both the mean a
 
 ![](/assets/wrong2.png)![](/assets/wrong4.png)
 
+
+
+Additional Problem is 
+
+![](/assets/wrong5.png)
+
