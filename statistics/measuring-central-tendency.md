@@ -8,3 +8,5 @@ Then mean is
 
 Mean is represented with u \( MEW\)
 
+![](/assets/mean3.png)
+
