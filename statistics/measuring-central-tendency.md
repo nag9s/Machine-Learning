@@ -48,5 +48,9 @@ Additional Problem is
 
 **Why do you think the mean and median both failed for this data? Why are they misleading?**
 
-Both the mean and median are misleading for this set of data because neither fully represents the typical ages of people in the class. The mean suggests that teenagers go to the class, when in fact there are none. The median also has this problem, but it can fluctuate wildly if other people join the class.
+Both the mean and median are misleading for this set of data because neither fully represents the typical ages of people in the class. **The mean suggests that teenagers go to the class, when in fact there are none. The median also has this problem, but it can fluctuate wildly if other people join the class.**
+
+**If you had to pick one age to represent this class, what would it be? Why?**
+
+**It’s not really possible to pick a single age that fully represents the ages in the class.** The class is really made up of two sets of ages, those of the children and those of the parents. You can’t really represent both of these groups with a single number.
 
