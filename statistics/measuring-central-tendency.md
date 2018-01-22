@@ -30,3 +30,7 @@ If you have an even set of numbers, just take the  **mean of the two middle numb
 
 \(add them together, and divide by 2\), and that’s your median.
 
+
+
+![](/assets/skew3.png)
+
