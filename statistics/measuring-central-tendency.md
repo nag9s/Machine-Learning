@@ -66,11 +66,11 @@ If a set of data has two modes, then we call the data bimodal
 
 ![](/assets/all.png)
 
-When do you think the mode is most useful?
+**When do you think the mode is most useful?**
 
 * When the data set has a low number of modes, or when the data is categorical instead of numerical. Neither the mean nor the median can be used with categorical data.
 
-When is the mode least useful?
+**When is the mode least useful?**
 
 * When there are many modes
 
