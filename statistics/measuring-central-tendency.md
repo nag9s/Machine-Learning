@@ -60,3 +60,11 @@ The mode of a set of data is the most popular value, the value with the highest 
 
 ![](/assets/mode1.png)
 
+
+
+ If a set of data has two modes, then we call the data 
+
+bimodal
+
+.
+
