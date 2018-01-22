@@ -64,7 +64,15 @@ If a set of data has two modes, then we call the data bimodal
 
 . The mode doesn’t just work with numeric data; it works with categorical data, too.  When you’re dealing with categorical data, the mode is the most frequently occurring category.
 
-
-
 ![](/assets/all.png)
+
+When do you think the mode is most useful?
+
+* When the data set has a low number of modes, or when the data is categorical instead of numerical. Neither the mean nor the median can be used with categorical data.
+
+When is the mode least useful?
+
+* When there are many modes
+
+
 
