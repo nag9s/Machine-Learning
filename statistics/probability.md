@@ -34,7 +34,9 @@ The probability of A give that we know B has happened.
 
 ![](/assets/prob8.png)
 
-
-
 ![](/assets/prob9.png)
+
+**Venn diagrams aren’t always the best way of visualizing conditional probability.**
+
+Don’t worry, there’s another sort of diagram you can use—a probability tree.
 
