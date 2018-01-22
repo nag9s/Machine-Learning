@@ -32,17 +32,13 @@ If you have an even set of numbers, just take the  **mean of the two middle numb
 
 ![](/assets/skew3.png)
 
-
-
 ## What is wrong with the mean and median? {#what_went_wrong_with_the_mean_and_median}
 
 ![](/assets/wrong1.png)
-
-
 
 The mean and median for the class are both 17, even though there are no 17-year-olds in the class!
 
 But what if there had been an odd number of people in the class. Both the mean and median would still have been misleading.
 
-![](/assets/wrong2.png)
+![](/assets/wrong2.png)![](/assets/wrong4.png)
 
