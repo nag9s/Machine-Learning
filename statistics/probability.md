@@ -20,7 +20,7 @@ What about the black and even events? This time the events aren’t mutually exc
 
 
 
-
+## **Conditional Probability**
 
 .
 
