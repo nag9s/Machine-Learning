@@ -1,4 +1,4 @@
-#### **Mean**
+## **Mean**
 
 ![](/assets/mean1.png)
 
@@ -9,4 +9,12 @@ Then mean is
 Mean is represented with u \( MEW\)
 
 ![](/assets/mean3.png)
+
+
+
+
+
+
+
+
 
