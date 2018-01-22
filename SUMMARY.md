@@ -13,4 +13,5 @@
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
+  * [Standard Deviation , Variance](statistics/standard-deviation-variance.md)
 
