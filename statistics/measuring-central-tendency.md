@@ -54,3 +54,5 @@ Both the mean and median are misleading for this set of data because neither ful
 
 **It’s not really possible to pick a single age that fully represents the ages in the class.** The class is really made up of two sets of ages, those of the children and those of the parents. You can’t really represent both of these groups with a single number.
 
+
+
