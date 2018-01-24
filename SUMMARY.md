@@ -21,5 +21,7 @@
     * [Vector](mlib/data-types/vector.md)
     * [LabeledPoint ](mlib/data-types/labeledpoint.md)
     * [Rating ](mlib/data-types/rating.md)
+  * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
 * [Terminology](terminology.md)
+* [Machine Learning Steps](machine-learning-steps.md)
 
