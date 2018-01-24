@@ -16,5 +16,6 @@
   * [Probability](statistics/probability.md)
   * [Standard Deviation , Variance](statistics/standard-deviation-variance.md)
 * [Spark MLib](mlib.md)
-  * Data Types
+  * [Data Types](mlib/data-types.md)
+    * [Vector](mlib/data-types/vector.md)
 
