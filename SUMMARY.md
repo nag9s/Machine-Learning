@@ -21,4 +21,5 @@
     * [Vector](mlib/data-types/vector.md)
     * [LabeledPoint ](mlib/data-types/labeledpoint.md)
     * [Rating ](mlib/data-types/rating.md)
+* [Terminology](terminology.md)
 
