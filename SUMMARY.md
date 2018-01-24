@@ -15,5 +15,5 @@
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
   * [Probability](statistics/probability.md)
   * [Standard Deviation , Variance](statistics/standard-deviation-variance.md)
-* [MLib](mlib.md)
+* [Spark MLib](mlib.md)
 
