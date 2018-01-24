@@ -9,6 +9,7 @@
   * [Supervised Learning](learning/supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
+  * [Semi-supervised learning](learning/semi-supervised-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
@@ -18,4 +19,6 @@
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
+    * [LabeledPoint ](mlib/data-types/labeledpoint.md)
+    * [Rating ](mlib/data-types/rating.md)
 
