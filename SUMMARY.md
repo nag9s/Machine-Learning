@@ -21,7 +21,13 @@
     * [Vector](mlib/data-types/vector.md)
     * [LabeledPoint ](mlib/data-types/labeledpoint.md)
     * [Rating ](mlib/data-types/rating.md)
-    * Matrices
+    * [Matrices](mlib/data-types/matrices.md)
+      * Local Matrix
+      * Distributed matrix
+        * RowMatrix
+        * IndexedRowMatrix
+        * CoordinateMatrix
+        * BlockMatrix
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
