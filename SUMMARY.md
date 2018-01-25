@@ -11,6 +11,7 @@
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
+  * Model Validation
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
@@ -19,6 +20,7 @@
   * root mean squared error \(RMSE\)
   * mean Absolute Error
   * explained Variance
+  * Coefficient of determination R2 
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
