@@ -27,7 +27,7 @@
     * [LabeledPoint ](mlib/data-types/labeledpoint.md)
     * [Rating ](mlib/data-types/rating.md)
     * [Matrices](mlib/data-types/matrices.md)
-      * Local Matrix
+      * [Local Matrix](mlib/data-types/matrices/local-matrix.md)
       * Distributed matrix
         * RowMatrix
         * IndexedRowMatrix
