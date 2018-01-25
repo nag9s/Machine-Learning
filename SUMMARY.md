@@ -11,7 +11,7 @@
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
-  * Model Validation
+  * [Model Validation](steps-in-machine-learning-model-development-and-deployment/model-validation.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
