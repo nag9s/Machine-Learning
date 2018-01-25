@@ -6,5 +6,5 @@ A dense or sparse local vector having a label or a response value is called a la
 
 
 
-
+From [https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf](https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf)
 
