@@ -8,3 +8,7 @@ From [https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d1
 
 > A labeled point is a local vector, either dense or sparse, associated with a label/response
 
+![](/assets/labelP.png)
+
+
+
