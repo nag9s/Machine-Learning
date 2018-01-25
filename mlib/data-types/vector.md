@@ -16,13 +16,25 @@ From [https://www.safaribooksonline.com/library/view/spark-for-data/978178588565
 
 **   Local vector:** Local vectors are stored on a single machine having values as double and indices of each such values are stored as an integer starting with zero. Local vectors can further be sub classified into dense and sparse vectors. A double array representing its values is called dense vector while sparse vector contains two arrays representing indices and values separately.
 
-```
-For example, a vector ( 2.0, 0.0, 5.0, 3.0 ) can be represented as a:
+For example, a vector \( 2.0, 0.0, 5.0, 3.0 \) can be represented as a:
 
-Dense vector as [ 2.0, 0.0, 5.0, 3.0]
+Dense vector as \[ 2.0, 0.0, 5.0, 3.0\]
 
-Sparse vector as [4, (0,2,3), (2.0,5.0,3.0) ]
-```
+Sparse vector as \[4, \(0,2,3\), \(2.0,5.0,3.0\) \]
+
+
+
+
+
+From 
+
+
 
 ![](/assets/vect2.png)
+
+
+
+
+
+
 
