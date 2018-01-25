@@ -12,7 +12,13 @@ From [https://www.safaribooksonline.com/library/view/spark-for-data/978178588565
 
 ![](/assets/vector1.png)
 
-
-
 ![](/assets/vector2.png)
+
+
+
+
+
+
+
+
 

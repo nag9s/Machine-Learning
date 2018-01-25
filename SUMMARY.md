@@ -29,10 +29,10 @@
     * [Matrices](mlib/data-types/matrices.md)
       * [Local Matrix](mlib/data-types/matrices/local-matrix.md)
       * [Distributed matrix](mlib/data-types/matrices/distributed-matrix.md)
-        * RowMatrix
-        * IndexedRowMatrix
-        * CoordinateMatrix
-        * BlockMatrix
+        * [RowMatrix](mlib/data-types/matrices/distributed-matrix/rowmatrix.md)
+        * [IndexedRowMatrix](mlib/data-types/matrices/distributed-matrix/indexedrowmatrix.md)
+        * [CoordinateMatrix](mlib/data-types/matrices/distributed-matrix/coordinatematrix.md)
+        * [BlockMatrix](mlib/data-types/matrices/distributed-matrix/blockmatrix.md)
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
