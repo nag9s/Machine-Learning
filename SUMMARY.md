@@ -28,7 +28,7 @@
     * [Rating ](mlib/data-types/rating.md)
     * [Matrices](mlib/data-types/matrices.md)
       * [Local Matrix](mlib/data-types/matrices/local-matrix.md)
-      * Distributed matrix
+      * [Distributed matrix](mlib/data-types/matrices/distributed-matrix.md)
         * RowMatrix
         * IndexedRowMatrix
         * CoordinateMatrix
