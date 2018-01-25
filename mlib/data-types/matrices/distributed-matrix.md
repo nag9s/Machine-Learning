@@ -2,3 +2,7 @@ Distributed matrices are the most sophisticated ones and choosing the right type
 
 Each row in turn is a local vector. This is suitable when the number of columns is very low. Remember, we need to pass RDDs to create distributed matrices, unlike the local ones. Let us look at an example:
 
+
+
+![](/assets/distM.png)
+
