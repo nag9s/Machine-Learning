@@ -8,7 +8,13 @@ Fundamental data types in this library are vectors and matrices. **Vectors are l
 
 I didnt see distributed Vector ? Need to find out why there is no distributed vector.
 
+From [https://www.safaribooksonline.com/library/view/spark-for-data/9781785885655/ch06s02.html](https://www.safaribooksonline.com/library/view/spark-for-data/9781785885655/ch06s02.html)
 
 
-From https://www.safaribooksonline.com/library/view/spark-for-data/9781785885655/ch06s02.html
+
+![](/assets/vector1.png)
+
+
+
+
 
