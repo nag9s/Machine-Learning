@@ -4,7 +4,7 @@ A dense or sparse local vector having a label or a response value is called a la
 
 ![](/assets/labeledPoint.png)
 
-
-
 From [https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf](https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf)
+
+A labeled point is a local vector, either dense or sparse, associated with a label/response
 
