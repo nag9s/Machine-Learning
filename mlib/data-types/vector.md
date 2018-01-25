@@ -10,11 +10,9 @@ I didnt see distributed Vector ? Need to find out why there is no distributed ve
 
 From [https://www.safaribooksonline.com/library/view/spark-for-data/9781785885655/ch06s02.html](https://www.safaribooksonline.com/library/view/spark-for-data/9781785885655/ch06s02.html)
 
-
-
 ![](/assets/vector1.png)
 
 
 
-
+![](/assets/vector2.png)
 
