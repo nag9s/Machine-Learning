@@ -4,7 +4,9 @@ In this format, the matrix is stored in the form of three arrays. The first arra
 
 ![](/assets/localMat.png)
 
+[https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf](https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf)
 
 
-https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf
+
+A local matrix has integer-typed row and column indices and double-typed values, stored on a single machine
 
