@@ -16,6 +16,9 @@
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
   * [Probability](statistics/probability.md)
   * [Standard Deviation , Variance](statistics/standard-deviation-variance.md)
+  * root mean squared error \(RMSE\)
+  * mean Absolute Error
+  * explained Variance
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
