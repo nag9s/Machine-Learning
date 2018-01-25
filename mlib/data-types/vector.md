@@ -24,5 +24,5 @@ Dense vector as [ 2.0, 0.0, 5.0, 3.0]
 Sparse vector as [4, (0,2,3), (2.0,5.0,3.0) ]
 ```
 
-
+![](/assets/vect2.png)
 
