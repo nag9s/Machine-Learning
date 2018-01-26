@@ -2,15 +2,9 @@
 
 To understand discrete and continuous distribution, consider the weight of fashion models.** A discrete variable would be the weight of one model,whereas a continuous variable would be a weight range that is acceptable for models in the fashion industry at large .**
 
-
-
 Probability distribution is classified per these two types:
 
-Discrete: A random variable where values can be counted by
+**Discrete: **A random variable where values can be counted by groupings
 
-groupings
-
-Continuous: A random variable that assigns probabilities to a range of
-
-value
+**Continuous:** A random variable that assigns probabilities to a range of value
 
