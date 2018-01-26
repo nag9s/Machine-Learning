@@ -6,7 +6,7 @@ It helps you to compare to classifiers, models .
 
 you need statistics every time you report the performance of your model  - a number without confidence interval is no result
 
-Machine learning is a branch of statistics, and blindly applying algorithms to data is disastrous for a company \(and can cause legal issues for that company down the road\). Applying the wrong algorithm, not understanding the biases or limitations of an algorithm, and not interpreting the output correctly. This is where statistics will be used to understand limitations, compare models etc ...
+**Machine learning is a branch of statistics, and blindly applying algorithms to data is disastrous for a company \(and can cause legal issues for that company down the road\). Applying the wrong algorithm, not understanding the biases or limitations of an algorithm, and not interpreting the output correctly. This is where statistics will be used to understand limitations, compare models etc ...**
 
 After you exactly understand how these ml algorithms work, You can look back to learn more statistic theories and study why these ml algorithms works.
 
@@ -34,8 +34,6 @@ If there are multiple datasets, and
 [https://www.quora.com/How-important-it-is-to-learn-statistics-for-a-career-in-machine-learning](https://www.quora.com/How-important-it-is-to-learn-statistics-for-a-career-in-machine-learning)
 
 In the simplest case, suppose you are comparing the performance of two classifiers A and B. A gives 90% accuracy and B gives 87% accuracy, which one is better? May be both A and B perform the **same **statistically, but you will never know this unless you know statistics. That is how much **statistics is important for understanding and interpreting results obtained from ML methods.**
-
-
 
 You can implement everything without knowing any statistics, but you won’t be able to understand much \(why these things work\) without having a solid knowledge on statistics. I would say that statistics, linear algebra and optimization are the three most important prerequisites to do machine learning.
 
