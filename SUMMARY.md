@@ -17,10 +17,10 @@
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
   * [Probability](statistics/probability.md)
   * [Standard Deviation , Variance](statistics/standard-deviation-variance.md)
-  * root mean squared error \(RMSE\)
-  * mean Absolute Error
-  * explained Variance
-  * Coefficient of determination R2 
+  * [root mean squared error \(RMSE\)](statistics/root-mean-squared-error-rmse.md)
+  * [mean Absolute Error](statistics/mean-absolute-error.md)
+  * [explained Variance](statistics/explained-variance.md)
+  * [Coefficient of determination R2 ](statistics/coefficient-of-determination-r2.md)
   * [Standard Error](statistics/standard-error.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
