@@ -40,7 +40,7 @@ Reinforcement learning Models
 >
 > Nice Example from quora
 
-Suppose you have a dog that is not so well trained, every time the dog messes up the living room you reduce the amount of tasty foods you give it \(punishment\) and every time it behaves well you double the tasty snacks \(reward\). What will the dog eventually learn? Well, that messing up the living room is bad.
+**Example **Suppose you have a dog that is not so well trained, every time the dog messes up the living room you reduce the amount of tasty foods you give it \(punishment\) and every time it behaves well you double the tasty snacks \(reward\). What will the dog eventually learn? Well, that messing up the living room is bad.
 
 This simple concept is powerful. **The dog is the agent, the living room the environment**, you are the source of the reward signal \(tasty snacks\). You are giving feedback to the dog, but this feedback is vague it doesn't mean anything without the context. So eventually the dog's neural networks figure out the relationship between the tasty snacks and good behavior.
 
@@ -48,13 +48,7 @@ So in order for the dog to maximize the goal of eating more tasty snacks, it wil
 
 It is pretty "heavily" used in robotics
 
+From [https://www.safaribooksonline.com/library/view/apache-spark-2x/9781787126497/74757d2e-dd20-4d7a-8531-2d31716f091e.xhtml](https://www.safaribooksonline.com/library/view/apache-spark-2x/9781787126497/74757d2e-dd20-4d7a-8531-2d31716f091e.xhtml)
 
-
-
-
-From https://www.safaribooksonline.com/library/view/apache-spark-2x/9781787126497/74757d2e-dd20-4d7a-8531-2d31716f091e.xhtml
-
-
-
- **Reinforced learning is used in artificial intelligence and its related fields. It allows machines and software agents to automatically determine the ideal behavior within a specific context, in order to maximize its performance.**
+**Reinforced learning is used in artificial intelligence and its related fields. It allows machines and software agents to automatically determine the ideal behavior within a specific context, in order to maximize its performance.**
 
