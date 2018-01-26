@@ -22,6 +22,7 @@
   * [explained Variance](statistics/explained-variance.md)
   * [Coefficient of determination R2 ](statistics/coefficient-of-determination-r2.md)
   * [Standard Error](statistics/standard-error.md)
+  * [Random Variable](statistics/random-variable.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
