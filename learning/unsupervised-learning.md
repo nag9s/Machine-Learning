@@ -4,7 +4,7 @@ Unsupervised learning studies how systems can learn to represent particular inpu
 
 It may seem somewhat mysterious to imagine what the machine could possibly learn given that it doesn't get any feedback from its environment. unsupervised learning can be thought of as finding patterns in the data above and beyond what would be considered noise. unsupervised problems are ones in which there’s no identified target variable.
 
-**In unsupervised learning, you have access to only input features, and don’t have an associated target variable. So what kinds of analyses can you perform if there’s no target available?                 
+**In unsupervised learning, you have access to only input features, and don’t have an associated target variable. So what kinds of analyses can you perform if there’s no target available?                   
 **The unsupervised learning approach has two main classes:
 
 ■ Clustering—Use the input features to discover natural groupings in the data and to divide the data into those groups. Methods: **k-means, Gaussian mixture models, and hierarchical clustering.**
@@ -27,7 +27,7 @@ You go bag-packing to a new country, you did not know much about it - their food
 
 **Scenario1 is an example of supervised classification**, where you have a teacher to guide you and learn concepts, such that when a new sample comes your way that you have not seen before, you may still be able to identify it.
 
-**Scenario2 is an example of unsupervised classification**, where you have lots of information but you did not know what to do with it initially. A major distinction is that, there is no teacher to guide you and you have to find a way out on your own. Then, based on \*some\* criteria you start churning out that information into groups that makes sense to you.
+**Scenario2 is an example of unsupervised classification**, where you have lots of information but you did not know what to do with it initially. A major distinction is that, **there is no teacher to guide you and you have to find a way out on your own. **Then, based on \*some\* criteria you start churning out that information into groups that makes sense to you.
 
 **Unsupervised Learning:**
 
