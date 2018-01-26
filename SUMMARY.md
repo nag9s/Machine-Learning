@@ -21,6 +21,7 @@
   * mean Absolute Error
   * explained Variance
   * Coefficient of determination R2 
+  * [Standard Error](statistics/standard-error.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
