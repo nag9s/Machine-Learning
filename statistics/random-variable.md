@@ -8,3 +8,9 @@ Probability distribution is classified per these two types:
 
 **Continuous:** A random variable that assigns probabilities to a range of value
 
+
+
+**Discrete data** is composed of distinct numeric values.
+
+**Continuous data** covers a range, where any value within that range is possible. It’s frequently data that is measured in some way, rather than counted.
+
