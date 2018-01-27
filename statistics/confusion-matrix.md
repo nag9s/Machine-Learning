@@ -4,3 +4,9 @@ the matrix of the actual versus the predicted. This concept is better explained 
 
 ![](/assets/cm1.png)
 
+![](/assets/cm2.png)
+
+
+
+![](/assets/cm3.png)
+
