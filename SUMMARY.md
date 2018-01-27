@@ -24,6 +24,7 @@
   * [Standard Error](statistics/standard-error.md)
   * [Random Variable](statistics/random-variable.md)
   * [Sample vs Population](statistics/sample-vs-population.md)
+  * [Normal Distribution](statistics/normal-distribution.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
