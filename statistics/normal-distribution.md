@@ -16,7 +16,14 @@ Another corollary is that the normal distribution makes math easy - things like 
 
 **let's see why Normal distribution is such a beautiful phenomenon.**
 
-
-
 ![](/assets/normal1.png)
+
+
+
+**Nice, huh?**
+
+  
+
+
+**Let's see now how we can find X for a particular probability.**
 
