@@ -1,3 +1,13 @@
+ The Statsville Health Club prides itself on its ability to find the perfect class for everyone. Whether you want to learn how to swim, practice martial arts, or get your body into shape, they have just the right class for you. The staff at the health club have noticed that their customers seem happiest when they’re in a class with people their own age, and happy customers always come back for more. It seems that the key to success for the health club is to work out what a typical age is for each of their classes, and one way of doing this is to 
+
+**calculate the average**
+
+. The average gives a representative age for each class, which the health club can use to help their customers pick the right class.
+
+## 
+
+## 
+
 ## **Mean**
 
 ![](/assets/mean1.png)
@@ -74,11 +84,7 @@ If a set of data has two modes, then we call the data bimodal
 
 * When there are many modes
 
-
-
 Which is to use When
 
 ![](/assets/choice.png)
-
-
 
