@@ -27,7 +27,7 @@
     * [Continuous](statistics/random-variable/continuous.md)
   * [Sample vs Population](statistics/sample-vs-population.md)
   * [Normal Distribution](statistics/normal-distribution.md)
-  * Z Score
+  * [Z Score](statistics/z-score.md)
   * Percentile
   * Skewness and Kurtosis
   * [Co-variance vs Correlation](statistics/co-variance-vs-correlation.md)
