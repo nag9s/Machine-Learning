@@ -52,15 +52,9 @@ The normal distribution is in the shape of a bell curve.
 
 The curve is symmetrical, with the highest probability density in the center of the curve. The probability density decreases the further away you get from the mean. Both the mean and median are at the center and have the highest probability density.
 
-
-
 The normal distribution is defined by two parameters, μ and σ
 
 2
 
-. μ tells you where the center of the curve is, and σ gives you the spread. If a continuous random variable X follows a normal distribution with mean μ and standard deviation σ, this is generally written X ~ N\(μ, σ
-
-2
-
-\).
+. μ tells you where the center of the curve is, and σ gives you the spread. If a continuous random variable X follows a normal distribution with mean μ and standard deviation σ, this is generally written X ~ N\(μ, σ2\).
 
