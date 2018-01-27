@@ -14,3 +14,7 @@ The normal distribution is important because of the [Central limit theorem](http
 
 Another corollary is that the normal distribution makes math easy - things like calculating moments, correlations between variables, and other calculations that are domain specific.  For that reason, even if a distribution isn't actually normal, it is useful to assume that it is normal to get a good, first-order understanding of a set of data.
 
+
+
+**let's see why Normal distribution is such a beautiful phenomenon.**
+
