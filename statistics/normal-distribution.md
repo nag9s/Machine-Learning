@@ -18,12 +18,9 @@ Another corollary is that the normal distribution makes math easy - things like 
 
 ![](/assets/normal1.png)
 
-
-
 **Nice, huh?**
 
-  
-
-
 **Let's see now how we can find X for a particular probability.**
+
+![](/assets/normal2.png)
 
