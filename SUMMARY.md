@@ -27,6 +27,10 @@
     * [Continuous](statistics/random-variable/continuous.md)
   * [Sample vs Population](statistics/sample-vs-population.md)
   * [Normal Distribution](statistics/normal-distribution.md)
+  * Z Score
+  * Percentile
+  * [Skewness and Kurtosis](statistics/skewness-and-kurtosis.md)
+  * Co-variance vs Correlation
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
