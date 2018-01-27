@@ -56,7 +56,11 @@ The normal distribution is defined by two parameters, μ and σ2
 
 . μ tells you where the center of the curve is, and σ gives you the spread. If a continuous random variable X follows a normal distribution with mean μ and standard deviation σ, this is generally written X ~ N\(μ, σ2\).
 
-
-
 ![](/assets/normal5.png)
+
+
+
+# What are some real world examples of normally distributed quantities?
+
+
 
