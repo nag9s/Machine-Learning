@@ -24,3 +24,11 @@ Another corollary is that the normal distribution makes math easy - things like 
 
 ![](/assets/normal2.png)
 
+
+
+**The relation between probability and Z is fixed and can be found out from Standardized Normal Probability Table \(more info here**
+
+[Standard normal table](http://en.wikipedia.org/wiki/Standard_normal_table)
+
+\).
+
