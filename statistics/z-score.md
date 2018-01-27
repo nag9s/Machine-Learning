@@ -4,3 +4,15 @@ Standard scores give you a way of comparing values across different sets of data
 
 .They’re a way of comparing related data values in different circumstances. As an example, you can use standard scores to compare each player’s performance relative to his personal track record—a bit like a personal trainer would.
 
+
+
+You find the standard score of a particular value using the mean and standard deviation of the entire data set. The standard score is normally denoted by the letter _z_, and to find the standard score of a particular value _x_, you use the formula:
+
+
+
+
+
+![](file:///E:/Soft/ScrapBook%20Data/Hadoop/data/20170808202458/httpatomoreillycomsourceoreillyimages1486890.png.jpg "image with no caption")
+
+Let’s calculate the standard scores for each player, and see what those scores tell us.
+
