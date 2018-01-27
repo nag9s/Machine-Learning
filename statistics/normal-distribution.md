@@ -14,66 +14,17 @@ The normal distribution is important because of the [Central limit theorem](http
 
 Another corollary is that the normal distribution makes math easy - things like calculating moments, correlations between variables, and other calculations that are domain specific.  For that reason, even if a distribution isn't actually normal, it is useful to assume that it is normal to get a good, first-order understanding of a set of data.
 
-
-
 Definition from Wikipedia
-
-  
-
 
 The normal distribution is
 
-  
-
-
 ![](https://qph.ec.quoracdn.net/main-qimg-13b1edf5315d9bb35635ccf532936b35.webp)
 
-The parameter
+The parameter μ in this formula is the [mean](http://en.wikipedia.org/wiki/Mean) or [expectation](http://en.wikipedia.org/wiki/Expected_value) of the distribution \(and also its [median](http://en.wikipedia.org/wiki/Median) and [mode](http://en.wikipedia.org/wiki/Mode_%28statistics%29) \). The parameter
 
-μ
+σ is its [standard deviation](http://en.wikipedia.org/wiki/Standard_deviation) ; its [variance](http://en.wikipedia.org/wiki/Variance) is therefore σ
 
-in this formula is the
-
-[mean](http://en.wikipedia.org/wiki/Mean)
-
-or
-
-[expectation](http://en.wikipedia.org/wiki/Expected_value)
-
-of the distribution \(and also its
-
-[median](http://en.wikipedia.org/wiki/Median)
-
-and
-
-[mode](http://en.wikipedia.org/wiki/Mode_%28statistics%29)
-
-\). The parameter
-
-σ
-
-is its
-
-[standard deviation](http://en.wikipedia.org/wiki/Standard_deviation)
-
-; its
-
-[variance](http://en.wikipedia.org/wiki/Variance)
-
-is therefore
-
-σ
-
- 2. A random variable with a Gaussian distribution is said to be
-
-**normally distributed**
-
-and is called a
-
-**normal deviate**
-
-  
-
+2. A random variable with a Gaussian distribution is said to be **normally distributed **and is called a **normal deviate**
 
 **let's see why Normal distribution is such a beautiful phenomenon.**
 
