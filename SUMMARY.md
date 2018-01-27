@@ -23,6 +23,8 @@
   * [Coefficient of determination R2 ](statistics/coefficient-of-determination-r2.md)
   * [Standard Error](statistics/standard-error.md)
   * [Random Variable](statistics/random-variable.md)
+    * [Discrete](statistics/random-variable/discrete.md)
+    * [Continuous](statistics/random-variable/continuous.md)
   * [Sample vs Population](statistics/sample-vs-population.md)
   * [Normal Distribution](statistics/normal-distribution.md)
 * [Spark MLib](mlib.md)
