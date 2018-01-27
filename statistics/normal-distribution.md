@@ -22,9 +22,9 @@ The normal distribution is
 
 The parameter μ in this formula is the [mean](http://en.wikipedia.org/wiki/Mean) or [expectation](http://en.wikipedia.org/wiki/Expected_value) of the distribution \(and also its [median](http://en.wikipedia.org/wiki/Median) and [mode](http://en.wikipedia.org/wiki/Mode_%28statistics%29) \). The parameter
 
-σ is its [standard deviation](http://en.wikipedia.org/wiki/Standard_deviation) ; its [variance](http://en.wikipedia.org/wiki/Variance) is therefore σ
+σ is its [standard deviation](http://en.wikipedia.org/wiki/Standard_deviation) ; its [variance](http://en.wikipedia.org/wiki/Variance) is therefore σ2.
 
-2. A random variable with a Gaussian distribution is said to be **normally distributed **and is called a **normal deviate**
+1. A random variable with a Gaussian distribution is said to be **normally distributed **and is called a **normal deviate**
 
 **let's see why Normal distribution is such a beautiful phenomenon.**
 
