@@ -42,3 +42,9 @@ The parameter μ in this formula is the [mean](http://en.wikipedia.org/wiki/Mean
 
 From Standard Normal table, you get the Z, and then X, simple as that :\)
 
+
+
+## The normal distribution is an “ideal” model for continuous data {#normal_distribution_is_an_quotation_mark}
+
+
+
