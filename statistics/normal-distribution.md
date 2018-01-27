@@ -4,7 +4,7 @@
 
 [https://www.quora.com/Why-is-the-normal-distribution-important](https://www.quora.com/Why-is-the-normal-distribution-important)
 
-Usually the data distribution in Nature follows a Normal distribution \( few examples like - age, income, height, weight etc., \) . So its the best approximation when we are not aware of the underlying distribution pattern.
+Usually the data distribution in Nature follows a Normal distribution \( few examples like - age, income, height, weight etc., \) . **So its the best approximation when we are not aware of the underlying distribution pattern.**
 
 Most often the goal in ML/ AI is to strive to make the data linearly separable even if it means projecting the data into higher dimensional space so as to find a fitting "hyperplane" \(for example - SVM kernels, Neural net layers, Softmax etc.,\). The reason for this being "Linear boundaries always help in reducing variance and is the most simplistic, natural and interpret-able" besides reducing mathematical / computational complexities. And, when we aim for linear separability, its always good to reduce the effect of outliers, influencing points and leverage points. Why? Because the hyperplane is very sensitive to the influencing points and leverage points \(aka outliers\) - To undertstand this - Lets shift to a 2D space where we have one predictor \(X\) and one target\(y\) and assume there exists a good positive correlation between X and y. Given this, if our X is normally distributed and y is also normally distributed, you are most likely to fit a straight line that has many points centered in the middle of the line rather than the end-points \(aka outliers, leverage / influencing points\). So the predicted regression line will most likely suffer little variance when predicting on unseen data.
 
@@ -44,9 +44,13 @@ From Standard Normal table, you get the Z, and then X, simple as that :\)
 
 ## The normal distribution is an “ideal” model for continuous data {#normal_distribution_is_an_quotation_mark}
 
- The normal distribution is called normal because _**it’s seen as an ideal**_. **It’s what you’d “normally” expect to see in real life **
+The normal distribution is called normal because _**it’s seen as an ideal**_. **It’s what you’d “normally” expect to see in real life **
 
 **for a lot of continuous data such as measurements.**
 
 
+
+The normal distribution is in the shape of a bell curve.
+
+ The curve is symmetrical, with the highest probability density in the center of the curve. The probability density decreases the further away you get from the mean. Both the mean and median are at the center and have the highest probability density.
 
