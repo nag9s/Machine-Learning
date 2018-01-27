@@ -31,6 +31,7 @@
   * Percentile
   * [Skewness and Kurtosis](statistics/skewness-and-kurtosis.md)
   * Co-variance vs Correlation
+  * [Confusion matrix](statistics/confusion-matrix.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
