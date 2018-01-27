@@ -58,9 +58,15 @@ The normal distribution is defined by two parameters, μ and σ2
 
 ![](/assets/normal5.png)
 
-
-
 # What are some real world examples of normally distributed quantities?
+
+
+
+Although height and weight are often cited as examples, they are not exactly normally distributed. Weight, in particular, is somewhat right skewed. The average American man weighs about 190 pounds. There are some men who weigh well over 380 but none who weigh even close to 0.
+
+IQ is sometimes cited as an example, but it has fatter tails than the normal.
+
+No physical variable is exactly normally distributed.
 
 
 
