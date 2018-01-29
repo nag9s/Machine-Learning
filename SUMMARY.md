@@ -48,4 +48,6 @@
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
+* The bias, variance, and regularization properties
+* [Preprocessing and Feature selection techniues](preprocessing-and.md)
 
