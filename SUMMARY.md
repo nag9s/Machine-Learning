@@ -32,6 +32,8 @@
   * [Skewness and Kurtosis](statistics/skewness-and-kurtosis.md)
   * [Co-variance vs Correlation](statistics/co-variance-vs-correlation.md)
   * [Confusion matrix](statistics/confusion-matrix.md)
+  * [References](statistics/references.md)
+  * [Types of data](statistics/types-of-data.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
@@ -45,9 +47,13 @@
         * [CoordinateMatrix](mlib/data-types/matrices/distributed-matrix/coordinatematrix.md)
         * [BlockMatrix](mlib/data-types/matrices/distributed-matrix/blockmatrix.md)
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
+  * Comparing algorithms supported by MLlib
+    * [Classification](mlib/classification.md)
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
-* The bias, variance, and regularization properties
+* [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
+* [Hyperplanes](hyperplanes.md)
+* cross-validation
 
