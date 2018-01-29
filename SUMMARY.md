@@ -14,6 +14,8 @@
         * Computing r-squared
         * Interpreting r-squared
     * [Evaluating supervised learning](learning/supervised-learning/evaluating-supervised-learning.md)
+      * K-fold cross validation
+      *  Using train/test to prevent overfitting of a polynomial regression
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
