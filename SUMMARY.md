@@ -7,6 +7,13 @@
 * [What are the most important machine learning techniques to master at this time?](what-are-the-most-important-machine-learning-techniques-to-master-at-this-time.md)
 * [Learning](learning.md)
   * [Supervised Learning](learning/supervised-learning.md)
+    * [Linear regression](learning/supervised-learning/linear-regression.md)
+      * The ordinary least squares technique
+      * The gradient descent technique
+      * The co-efficient of determination or r-squared
+        * Computing r-squared
+        * Interpreting r-squared
+    * [Evaluating supervised learning](learning/supervised-learning/evaluating-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
@@ -39,7 +46,7 @@
       * [Continuous data](statistics/types-of-data/numerical-data/continuous-data.md)
     * [Categorical data](statistics/types-of-data/categorical-data.md)
     * [Ordinal data](statistics/types-of-data/ordinal-data.md)
-  *  Bias versus variance trade-off
+  * Bias versus variance trade-off
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
