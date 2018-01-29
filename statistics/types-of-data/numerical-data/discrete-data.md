@@ -1,0 +1,2 @@
+There's discrete data, which is integer-based and, for example, can be counts of some sort of event. Some examples are how many purchases did a customer make in a year. Well, that can only be discrete values. They bought one thing, or they bought two things, or they bought three things. They couldn't have bought, 2.25 things or three and three-quarters things. It's a discrete value that has an integer restriction to it.
+
