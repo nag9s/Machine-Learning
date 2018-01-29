@@ -38,6 +38,7 @@
       * [Discrete data](statistics/types-of-data/numerical-data/discrete-data.md)
       * [Continuous data](statistics/types-of-data/numerical-data/continuous-data.md)
     * [Categorical data](statistics/types-of-data/categorical-data.md)
+    * [Ordinal data](statistics/types-of-data/ordinal-data.md)
 * [Spark MLib](mlib.md)
   * [Data Types](mlib/data-types.md)
     * [Vector](mlib/data-types/vector.md)
