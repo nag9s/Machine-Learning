@@ -7,5 +7,11 @@ Machine learning also has some terminologies that are specific to its domain and
 * **Label**
   : Label is a dependent entity whose outcome is related to the values of a feature. Such as in case of features of a car depending on the car model and number of seats and the label could be the maker of the car.
 
+Input variables \(X\): Features, predictors, explanatory variables, independent
+
+variables
+
+Output variables \(Y\): Response variable, dependent variable
+
 
 
