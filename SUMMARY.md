@@ -85,11 +85,12 @@
     * mixed selection or bidirectional elimination
     * backward selection or backward elimination
     * [The key metrics to focus on](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/the-key-metrics-to-focus-on.md)
+* [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
   * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
     * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
   * [Bias And Variance](the-bias-variance-and-regularization-properties/bias.md)
-* [Preprocessing and Feature selection techniues](preprocessing-and.md)
+* [Feature engineering](feature-engineering.md)
 * [Hyperplanes](hyperplanes.md)
 * [cross-validation](cross-validation.md)
 * [Machine learning losses](machine-learning-losses.md)
