@@ -10,7 +10,7 @@
     * [Evaluating supervised learning](learning/supervised-learning/evaluating-supervised-learning.md)
       * K-fold cross validation
       * Using train/test to prevent overfitting of a polynomial regression
-    * Regression
+    * [Regression](learning/supervised-learning/regression.md)
       * [Logistic Regression](learning/supervised-learning/logistic-regression.md)
       * [Linear regression](learning/supervised-learning/linear-regression.md)
         * The ordinary least squares technique
@@ -24,6 +24,8 @@
       * [Least absolute shrinkage and selection operator \(lasso\) Regression](learning/supervised-learning/least-absolute-shrinkage-and-selection-operator-lasso-regression.md)
       * Polynomial regression
       * [Performance Metrics](learning/supervised-learning/performance-metrics.md)
+      * [Regularization parameters in linear regression and ridge/lasso regression](learning/supervised-learning/regularization-parameters-in-linear-regression-and-ridgelasso-regression.md)
+      * [Comments](learning/supervised-learning/comments.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
