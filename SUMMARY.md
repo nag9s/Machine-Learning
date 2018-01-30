@@ -15,7 +15,7 @@
         * Interpreting r-squared
     * [Evaluating supervised learning](learning/supervised-learning/evaluating-supervised-learning.md)
       * K-fold cross validation
-      *  Using train/test to prevent overfitting of a polynomial regression
+      * Using train/test to prevent overfitting of a polynomial regression
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
@@ -67,6 +67,7 @@
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
+  * [Feature Selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection.md)
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
