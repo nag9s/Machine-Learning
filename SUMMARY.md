@@ -19,6 +19,9 @@
           * Computing r-squared
           * Interpreting r-squared
       * [Ridge regression](learning/supervised-learning/ridge-regression.md)
+      * Least absolute shrinkage and selection operator \(lasso\) Regression
+      * Polynomial regression
+      * [Performance Metrics](learning/supervised-learning/performance-metrics.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
