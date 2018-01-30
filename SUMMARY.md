@@ -11,7 +11,7 @@
       * K-fold cross validation
       * Using train/test to prevent overfitting of a polynomial regression
     * Regression
-      * Logistic Regression
+      * [Logistic Regression](learning/supervised-learning/logistic-regression.md)
       * [Linear regression](learning/supervised-learning/linear-regression.md)
         * The ordinary least squares technique
         * The gradient descent technique
@@ -80,6 +80,8 @@
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
   * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
     * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
+  * Bias
+  * Variance
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
 * cross-validation
