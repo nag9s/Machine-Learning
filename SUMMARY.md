@@ -77,6 +77,7 @@
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
   * Comparing algorithms supported by MLlib
     * [Classification](mlib/classification.md)
+  * [When and why should you use MLlib \(versus scikit-learn versus TensorFlow versus foo package\)](mlib/when-and-why-should-you-use-mllib-versus-scikit-learn-versus-tensorflow-versus-foo-package.md)
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
