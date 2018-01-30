@@ -8,13 +8,13 @@ For example, models that have more than one feature in them and do not include t
 
 The order of magnitude of this computation is on the scale of _k2_, which for even small values of _k_ is already considerably less than _2k_. At the end of the forward selection process, we have to choose between _k+1_ models, corresponding to the subsets we obtained at the end of every step of the process. As the final part of the process involves comparing models with different numbers of features, we usually use a criterion such as the AIC or the adjusted R2 to make our final choice of model. We can demonstrate this process for our CPU dataset by running the following commands:
 
-
-
-https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/bdd4260c-5a10-4db7-b195-ca13d97b9d0a.xhtml
-
-
+[https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/bdd4260c-5a10-4db7-b195-ca13d97b9d0a.xhtml](https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/bdd4260c-5a10-4db7-b195-ca13d97b9d0a.xhtml)
 
 There are various methods to add or remove variables to determine the best possible model.
 
-In the backward method, iterations start with considering all the variables and we will remove variables one by one until all the prescribed statistics are met \(such as no insignificance and multi-collinearity, and so on  [Assumptions of linear regression](/learning/supervised-learning/linear-regression/assumptions-of-linear-regression.md)\). **Finally, the overall statistic will be checked, such as if R-squared value is **_**&gt; 0.7**_** , it is considered a good model, else reject it. In industry, practitioners mainly prefer to work on backward methods.**
+In the backward method, **iterations start with considering all the variables and we will remove variables one by one until all the prescribed statistics are met** \(such as no insignificance and multi-collinearity, and so on  [Assumptions of linear regression](/learning/supervised-learning/linear-regression/assumptions-of-linear-regression.md)\). **Finally, the overall statistic will be checked, such as if R-squared value is **_**&gt; 0.7**_** , it is considered a good model, else reject it. In industry, practitioners mainly prefer to work on backward methods.**
+
+
+
+**In the case of forward, we will start with no variables and keep on adding significant variables until the overall model's fit improves.**
 

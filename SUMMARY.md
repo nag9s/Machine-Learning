@@ -29,6 +29,7 @@
   * [Reinforcement learning](learning/reinforcement-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
   * [Model Validation](steps-in-machine-learning-model-development-and-deployment/model-validation.md)
+  * [The key metrics to focus on](steps-in-machine-learning-model-development-and-deployment/the-key-metrics-to-focus-on.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
