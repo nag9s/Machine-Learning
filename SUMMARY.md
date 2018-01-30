@@ -29,7 +29,7 @@
   * [Reinforcement learning](learning/reinforcement-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
   * [Model Validation](steps-in-machine-learning-model-development-and-deployment/model-validation.md)
-  * [The key metrics to focus on](steps-in-machine-learning-model-development-and-deployment/the-key-metrics-to-focus-on.md)
+  * [The key metrics to focus](steps-in-machine-learning-model-development-and-deployment/the-key-metrics-to-focus-on.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
   * [Measuring Central Tendency](statistics/measuring-central-tendency.md)
@@ -80,6 +80,7 @@
     * [forward selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/forward-selection.md)
     * mixed selection or bidirectional elimination
     * backward selection or backward elimination
+    * [The key metrics to focus on](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/the-key-metrics-to-focus-on.md)
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
   * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
     * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
