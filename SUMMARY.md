@@ -18,6 +18,7 @@
         * The co-efficient of determination or r-squared
           * Computing r-squared
           * Interpreting r-squared
+        * [Assumptions of linear regression](learning/supervised-learning/linear-regression/assumptions-of-linear-regression.md)
       * [Ridge regression](learning/supervised-learning/ridge-regression.md)
       * [Least absolute shrinkage and selection operator \(lasso\) Regression](learning/supervised-learning/least-absolute-shrinkage-and-selection-operator-lasso-regression.md)
       * Polynomial regression
