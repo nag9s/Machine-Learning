@@ -80,8 +80,7 @@
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
   * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
     * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
-  * Bias
-  * Variance
+  * [Bias And Variance](the-bias-variance-and-regularization-properties/bias.md)
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
 * cross-validation
