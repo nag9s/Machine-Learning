@@ -84,4 +84,7 @@
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
 * cross-validation
+* [Machine learning losses](machine-learning-losses.md)
+* [When to stop tuning machine learning models](when-to-stop-tuning-machine-learning-models.md)
+* [Train, validation, and test data](train-validation-and-test-data.md)
 
