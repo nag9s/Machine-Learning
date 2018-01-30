@@ -7,18 +7,21 @@
 * [What are the most important machine learning techniques to master at this time?](what-are-the-most-important-machine-learning-techniques-to-master-at-this-time.md)
 * [Learning](learning.md)
   * [Supervised Learning](learning/supervised-learning.md)
-    * [Linear regression](learning/supervised-learning/linear-regression.md)
-      * The ordinary least squares technique
-      * The gradient descent technique
-      * The co-efficient of determination or r-squared
-        * Computing r-squared
-        * Interpreting r-squared
     * [Evaluating supervised learning](learning/supervised-learning/evaluating-supervised-learning.md)
       * K-fold cross validation
       * Using train/test to prevent overfitting of a polynomial regression
-  * [Reinforcement learning](learning/reinforcement-learning.md)
+    * Regression
+      * Logistic Regression
+      * [Linear regression](learning/supervised-learning/linear-regression.md)
+        * The ordinary least squares technique
+        * The gradient descent technique
+        * The co-efficient of determination or r-squared
+          * Computing r-squared
+          * Interpreting r-squared
+      * [Ridge regression](learning/supervised-learning/ridge-regression.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
+  * [Reinforcement learning](learning/reinforcement-learning.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
   * [Model Validation](steps-in-machine-learning-model-development-and-deployment/model-validation.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
