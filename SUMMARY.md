@@ -68,7 +68,11 @@
 * [Machine Learning Steps](machine-learning-steps.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
   * [Feature Selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection.md)
+    * [forward selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/forward-selection.md)
+    * mixed selection or bidirectional elimination
+    * backward selection or backward elimination
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
+  * Regularization
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
 * cross-validation
