@@ -72,7 +72,8 @@
     * mixed selection or bidirectional elimination
     * backward selection or backward elimination
 * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
-  * Regularization
+  * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
+    * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Hyperplanes](hyperplanes.md)
 * cross-validation
