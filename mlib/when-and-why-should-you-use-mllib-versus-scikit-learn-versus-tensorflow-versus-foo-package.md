@@ -1,0 +1,2 @@
+ There are numerous tools for performing machine learning on a single-machine, and while there are several great options to choose from, these single machine tools do have their limits either in terms of the size of data you can train on or the processing time. This means single-machine tools \( Scikit , TensorFlow\) are  _complementary _ tools, not competitive ones. When you hit those scalability issues, take advantage of Spark’s abilities.
+
