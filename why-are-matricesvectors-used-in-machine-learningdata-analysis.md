@@ -18,17 +18,25 @@ Here's a toy example which supposes inputting 5000 small images into the first l
 
 Computer are very adept at solving linear algebra problems efficiently, and writing algorithms in this framework \(turning the calculus into linear algebra\) allows for the exploitation of existing computational methods.
 
-
-
-Because matrices/vectors  are convenient for computer processing.
-
-  
-
+Because matrices/vectors  are convenient for computer processing.
 
 matrix operation is much faster than circulation.
 
-  
-
-
 Phil Glau has given a very good example!
+
+
+
+https://www.quora.com/How-is-linear-algebra-connected-with-machine-learning-and-big-data-analysis
+
+A lot of ML algorithms rely heavily on linear algebra.
+
+Linear regression, for example, is a linear algebra problem and can be solved purely by linear algebra.
+
+Feed-forward neural networks: each layer has the form, whereis a matrix of weights. This not only allows for fast vectorized computation, but also makes backpropagation much easier.
+
+Principal Component Analysis \(PCA\), probably the most popular dimensionality reduction technique, is pure linear algebra.
+
+Collaborative filtering is a form of low-rank matrix factorization, a problem that comes up frequently in ML.
+
+In fact, most ML models utilize a linear combination of features in some way. An understanding of linear algebra makes that much easier to deal with.
 
