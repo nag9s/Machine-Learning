@@ -16,7 +16,19 @@ Add in the ability to move computations to GPUs via CUBLAS or the like and you h
 
 Here's a toy example which supposes inputting 5000 small images into the first layer of a neural net. The FOR loop implementation is very naive and does not implement any optimizations.
 
-
-
 Computer are very adept at solving linear algebra problems efficiently, and writing algorithms in this framework \(turning the calculus into linear algebra\) allows for the exploitation of existing computational methods.
+
+
+
+Because matrices/vectors  are convenient for computer processing.
+
+  
+
+
+matrix operation is much faster than circulation.
+
+  
+
+
+Phil Glau has given a very good example!
 
