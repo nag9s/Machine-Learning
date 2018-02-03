@@ -101,4 +101,5 @@
 * [Train, validation, and test data](train-validation-and-test-data.md)
 * [input data structure](input-data-structure.md)
 * [Why are matrices/vectors used in machine learning/data analysis?](why-are-matricesvectors-used-in-machine-learningdata-analysis.md)
+  * Linear Algebra
 
