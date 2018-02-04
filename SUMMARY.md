@@ -76,7 +76,7 @@
         * [CoordinateMatrix](mlib/data-types/matrices/distributed-matrix/coordinatematrix.md)
         * [BlockMatrix](mlib/data-types/matrices/distributed-matrix/blockmatrix.md)
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
-  * Comparing algorithms supported by MLlib
+  * [Comparing algorithms supported by MLlib](mlib/comparing-algorithms-supported-by-mllib.md)
     * [Classification](mlib/classification.md)
   * [When and why should you use MLlib \(versus scikit-learn versus TensorFlow versus foo package\)](mlib/when-and-why-should-you-use-mllib-versus-scikit-learn-versus-tensorflow-versus-foo-package.md)
   * [Pipeline](mlib/pipeline.md)
