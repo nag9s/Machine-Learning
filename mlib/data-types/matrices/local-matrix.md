@@ -8,9 +8,13 @@ In this format, the matrix is stored in the form of three arrays. The first arra
 
 > A local matrix has integer-typed row and column indices and double-typed values, stored on a single machine
 
-
-
 ![](/assets/mat.png)
+
+
+
+
+
+http://blog.csdn.net/sinat\_29508201/article/details/54089771
 
 
 
