@@ -8,7 +8,7 @@ Fast Data Processing with the Scala \( Above Figure And Below\)
 
 **API Organiation**
 
-
-
 ![](/assets/ap1.png)
+
+
 
