@@ -28,6 +28,7 @@
       * [Comments](learning/supervised-learning/comments.md)
     * Random Forest
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
+    * [Classification](learning/supervised-learning/classification.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
