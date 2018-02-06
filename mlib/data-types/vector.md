@@ -22,7 +22,11 @@ Dense vector as \[ 2.0, 0.0, 5.0, 3.0\]
 
 Sparse vector as \[4, \(0,2,3\), \(2.0,5.0,3.0\) \]
 
-From https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf
+From [https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf](https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d13bf)
 
 ![](/assets/vect2.png)
+
+##### From Spark In Action
+
+**Local vectors in Spark are implemented with two classes—DenseVector and SparseVector**—implementing a common interface called Vector, making sure both implementations support exactly the same set of operations. **The main class for creating vectors is the Vectors class and its dense and sparse method. The dense method has two versions: it can take all elements as inline arguments or it can take an array of elements. For the sparse method, you need to specify a vector size, an array with indices, and an array with values. The following three vectors \(dv1, dv2, and sv\) contain the same elements and, hence, represent the same mathematical vectors:**
 
