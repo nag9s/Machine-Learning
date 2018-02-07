@@ -10,5 +10,5 @@ double sum = 0.0;
  double mae = sum / n;
 ```
 
-Sometimes we have outliers in the data--the values with quite irregular values. If we have a lot of outliers, we should prefer MAE to RMSE, since it is more robust to them. If we do not have many outliers, then RMSE should be the preferred choice.
+Sometimes we have outliers in the data--the values with quite irregular values.** If we have a lot of outliers, we should prefer MAE to RMSE, since it is more robust to them. If we do not have many outliers, then RMSE should be the preferred choice.**
 
