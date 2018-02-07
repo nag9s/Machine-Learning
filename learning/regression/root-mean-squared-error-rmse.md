@@ -8,31 +8,16 @@ Root Mean Squared Error \(RMSE\) is used to measure the difference between value
 
 ```
 double[] actual, predicted;
+int n = actual.length;double sum = 0.0; 
 ```
 
 ```
-int n = actual.length; 
-
-
-double sum = 0.0; 
-
-
-for (int i = 0; i 
-<
- n; i++) { 
-
+for (int i = 0; i < n; i++) { 
 
     diff = actual[i] - predicted[i]; 
 
-
     sum = sum + diff * diff; 
-
-
 } 
-
-
-
-
 double mse = sum / n;
 ```
 
@@ -40,10 +25,6 @@ Typically, the value of MSE is hard to interpret, which is why we often take a s
 
 ```
 double rmse = Math.sqrt(mse);
-```
-
-```
-
 ```
 
 
