@@ -2,3 +2,7 @@ An `IndexedRowMatrix` stores a row index prefixed to the row entry. This is usef
 
 like a row matrix, but with meaningful row indices.
 
+
+
+IndexedRowMatrix is an RDD of IndexedRow objects, each containing an index of the row and a Vector with row data. Although there is no built-in method for converting a RowMatrix to an IndexedRowMatrix, it’s fairly easy to do: 
+
