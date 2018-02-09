@@ -25,11 +25,14 @@
       * [Performance Metrics](learning/supervised-learning/performance-metrics.md)
       * [Regularization parameters in linear regression and ridge/lasso regression](learning/supervised-learning/regularization-parameters-in-linear-regression-and-ridgelasso-regression.md)
       * [Comments](learning/supervised-learning/comments.md)
-    * Random Forest
-      * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
     * [Classification](learning/supervised-learning/classification.md)
       * test
       * [Logistic Regression](learning/supervised-learning/classification/logistic-regression.md)
+      * naïve Bayes
+      * support vector machines \(SVM\)
+      * decision trees
+    * [Random Forest](learning/supervised-learning/random-forest.md)
+      * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
