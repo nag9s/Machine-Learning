@@ -6,3 +6,9 @@ Each row in turn is a local vector. This is suitable when the number of columns 
 
 ![](/assets/distM.png)
 
+
+
+#### Spark In Action
+
+
+
