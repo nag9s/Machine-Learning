@@ -16,3 +16,9 @@ In this format, the matrix is stored in the form of three arrays. The first arra
 
 ![](/assets/mat2.png)
 
+
+
+
+
+![](/assets/matrix1.png)
+
