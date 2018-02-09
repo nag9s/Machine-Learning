@@ -11,7 +11,6 @@
       * K-fold cross validation
       * Using train/test to prevent overfitting of a polynomial regression
     * [Regression](learning/supervised-learning/regression.md)
-      * [Logistic Regression](learning/supervised-learning/logistic-regression.md)
       * [Linear regression](learning/supervised-learning/linear-regression.md)
         * The ordinary least squares technique
         * The gradient descent technique
@@ -29,6 +28,8 @@
     * Random Forest
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
     * [Classification](learning/supervised-learning/classification.md)
+      * test
+    * [Logistic Regression](learning/supervised-learning/logistic-regression.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
