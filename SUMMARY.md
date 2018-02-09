@@ -29,6 +29,7 @@
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
     * [Classification](learning/supervised-learning/classification.md)
       * test
+      * [Logistic Regression](learning/supervised-learning/classification/logistic-regression.md)
     * [Logistic Regression](learning/supervised-learning/logistic-regression.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
