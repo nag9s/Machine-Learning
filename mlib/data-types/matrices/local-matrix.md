@@ -22,7 +22,7 @@ CSC format is made of three arrays, containing column pointers, row indices, and
 
 A row indices array contains the row index of each element in the elements array. The column pointers array contains ranges of indices of elements that belong to the same column.
 
-
-
 ![](/assets/matrix2.png)
+
+ThecolPtrsarray tells us that the elements from index 0 \(inclusive\) to 1 \(non-inclusive\), which is only element 5, belong to the first column. Elements from index 1 to 2, which is only element 3, belong to the second column. Finally, elements from index 2 to 4 \(elements 1 and 4\) belong to the third column. The row index of each element is given in therowIndicesarray.
 
