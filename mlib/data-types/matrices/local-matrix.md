@@ -22,3 +22,7 @@ CSC format is made of three arrays, containing column pointers, row indices, and
 
 A row indices array contains the row index of each element in the elements array. The column pointers array contains ranges of indices of elements that belong to the same column.
 
+
+
+![](/assets/matrix2.png)
+
