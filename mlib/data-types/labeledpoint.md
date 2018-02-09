@@ -10,9 +10,7 @@ From [https://medium.com/@rickynguyen/getting-started-with-spark-day-5-36b62a6d1
 
 ![](/assets/labelP.png)
 
-
-
 #### Spark In Action
 
-
+First you have to put each example in the dataset in a structure called a LabeledPoint , which is used in most of Spark’s machine-learning algorithms . It contains the target value and the vector with the features.
 
