@@ -4,5 +4,9 @@ like a row matrix, but with meaningful row indices.
 
 
 
-IndexedRowMatrix is an RDD of IndexedRow objects, each containing an index of the row and a Vector with row data. Although there is no built-in method for converting a RowMatrix to an IndexedRowMatrix, it’s fairly easy to do: 
+Spark In Action
+
+IndexedRowMatrix is an RDD of IndexedRow objects, each containing an index of the row and a Vector with row data. Although there is no built-in method for converting a RowMatrix to an IndexedRowMatrix, it’s fairly easy to do:
+
+![](/assets/indexedRowMatrix.png)
 
