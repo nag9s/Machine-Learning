@@ -4,7 +4,5 @@ A `BlockMatrix` represents a distributed matrix in blocks of local matrices. Met
 
 It stores its values as RDDs of tuples \(\(i,j\), Matrix\). In other words, BlockMatrix contains local matrices \(blocks\) referenced by their position in the matrix. Sub-matrices take up blocks of the same sizes \(of rows-per-block and columns-per-block dimensions\), except for the last sub-matrices, which can be smaller \(to allow the total matrix to be of any dimensions\).
 
-BlockMatrix
-
-is the only distributed implementation with methods for adding and multiplying other distributed matrices.
+BlockMatrix is the only distributed implementation with methods for adding and multiplying other distributed matrices.
 
