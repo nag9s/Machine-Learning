@@ -12,7 +12,9 @@ In this format, the matrix is stored in the form of three arrays. The first arra
 
 [http://blog.csdn.net/sinat\_29508201/article/details/54089771](http://blog.csdn.net/sinat_29508201/article/details/54089771)
 
-colPtrs -** index corresponding to the start of a new column inclusive of end  index**
+colPtrs -** index corresponding to the start of a new column inclusive of end  index  . **
+
+**Number of Elements in colPtrs = cloumn sie + 1**
 
 ![](/assets/mat5.png)
 
