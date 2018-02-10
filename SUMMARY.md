@@ -45,6 +45,11 @@
   * [hyperparameters](learning/hyperparameters.md)
 * [Steps in machine learning model development and deployment](steps-in-machine-learning-model-development-and-deployment.md)
   * [Model Validation](steps-in-machine-learning-model-development-and-deployment/model-validation.md)
+    * test
+  * [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
+    * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
+      * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
+    * [Bias And Variance](the-bias-variance-and-regularization-properties/bias.md)
   * [The key metrics to focus](steps-in-machine-learning-model-development-and-deployment/the-key-metrics-to-focus-on.md)
 * [Statistical fundamentals and terminology ](statistical-fundamentals-and-terminology.md)
 * [Statistics](statistics.md)
@@ -101,10 +106,6 @@
     * backward selection or backward elimination
     * [The key metrics to focus on](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/the-key-metrics-to-focus-on.md)
 * [Preprocessing and Feature selection techniues](preprocessing-and.md)
-* [The bias, variance, and regularization properties](the-bias-variance-and-regularization-properties.md)
-  * [Regularization](the-bias-variance-and-regularization-properties/regularization.md)
-    * [Ridge regression](the-bias-variance-and-regularization-properties/regularization/ridge-regression.md)
-  * [Bias And Variance](the-bias-variance-and-regularization-properties/bias.md)
 * [Feature engineering](feature-engineering.md)
 * [Hyperplanes](hyperplanes.md)
 * [cross-validation](cross-validation.md)
