@@ -4,3 +4,7 @@ K-fold cross-validationis a method of model validation.  It consists of dividing
 
 **For each set of parameters you want to validate, train all k models and calculate the mean error across all k models. Finally, you choose the set of parameters giving you the smallest average error.**
 
+
+
+Gollapudi - practical machine learning 
+
