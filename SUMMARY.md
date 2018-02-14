@@ -41,6 +41,7 @@
     * [Random Forest](learning/supervised-learning/random-forest.md)
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
       * [Paramters](learning/supervised-learning/paramters.md)
+        * [Non Tunable Parameters](learning/supervised-learning/paramters/non-tunable-parameters.md)
       * [Parameter Comparison of Decision Trees and Random Forests](learning/supervised-learning/parameter-comparison-of-decision-trees-and-random-forests.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
