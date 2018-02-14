@@ -43,6 +43,7 @@
       * [Paramters](learning/supervised-learning/paramters.md)
         * [Non Tunable Parameters](learning/supervised-learning/paramters/non-tunable-parameters.md)
         * [Tunable](learning/supervised-learning/paramters/tunable.md)
+        * [Stopping Param](learning/supervised-learning/paramters/stopping-param.md)
       * [Parameter Comparison of Decision Trees and Random Forests](learning/supervised-learning/parameter-comparison-of-decision-trees-and-random-forests.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
