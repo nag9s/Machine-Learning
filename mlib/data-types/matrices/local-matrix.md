@@ -30,13 +30,7 @@ A row indices array contains the row index of each element in the elements array
 
 ThecolPtrsarray tells us that the elements from index 0 \(inclusive\) to 1 \(non-inclusive\), which is only element 5, belong to the first column. Elements from index 1 to 2, which is only element 3, belong to the second column. Finally, elements from index 2 to 4 \(elements 1 and 4\) belong to the third column. The row index of each element is given in therowIndicesarray.
 
-
-
-
-
-From Spark MLLib  CoginitiveClass
-
-
+**From Spark MLLib  CoginitiveClass**
 
 ![](/assets/Local10.png)
 
