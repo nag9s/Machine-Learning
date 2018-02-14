@@ -53,7 +53,7 @@
         * [Functions](learning/unsupervised-learning/kmeans-clustering/functions.md)
       * [Gaussian Mixture ](learning/unsupervised-learning/gaussian-mixture.md)
         * [Parameters](learning/unsupervised-learning/gaussian-mixture/parameters.md)
-        * functions
+        * [functions](learning/unsupervised-learning/gaussian-mixture/functions.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Learning Means What](learning/learning-means-what.md)
