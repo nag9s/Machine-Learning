@@ -50,6 +50,7 @@
       * test
       * [KMeans Clustering](learning/unsupervised-learning/kmeans-clustering.md)
         * [Params](learning/unsupervised-learning/kmeans-clustering/params.md)
+        * [Functions](learning/unsupervised-learning/kmeans-clustering/functions.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Learning Means What](learning/learning-means-what.md)
