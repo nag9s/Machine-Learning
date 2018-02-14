@@ -30,7 +30,7 @@
       * test
       * [Logistic Regression](learning/supervised-learning/classification/logistic-regression.md)
       * naïve Bayes
-      * support vector machines \(SVM\)
+      * [support vector machines \(SVM\)](learning/supervised-learning/classification/support-vector-machines-svm.md)
       * decision trees
     * [Random Forest](learning/supervised-learning/random-forest.md)
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
