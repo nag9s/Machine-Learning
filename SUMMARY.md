@@ -40,6 +40,7 @@
           * [Stopping Parameters](learning/supervised-learning/classification/decision-trees/parameters/stopping-parameters.md)
     * [Random Forest](learning/supervised-learning/random-forest.md)
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
+      * [Paramters](learning/supervised-learning/paramters.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
