@@ -12,3 +12,7 @@ RowMatrix stores the rows of a matrix in an RDD ofVectorobjects. This RDD is acc
 
 Every other type of Spark distributed matrix can be converted to a RowMatrix using the built-in toRowMatrix methods, but there are no methods for converting a RowMatrix to other distributed implementations.
 
+
+
+![](/assets/row.png)
+
