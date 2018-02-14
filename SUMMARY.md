@@ -19,6 +19,7 @@
           * Interpreting r-squared
         * [Assumptions of linear regression](learning/supervised-learning/linear-regression/assumptions-of-linear-regression.md)
         * [Steps applied in linear regression modeling](learning/supervised-learning/linear-regression/steps-applied-in-linear-regression-modeling.md)
+        * [Evaluation Metrics Linear Regression](learning/supervised-learning/linear-regression/evaluation-metrics-linear-regression.md)
       * [Ridge regression](learning/supervised-learning/ridge-regression.md)
       * [Least absolute shrinkage and selection operator \(lasso\) Regression](learning/supervised-learning/least-absolute-shrinkage-and-selection-operator-lasso-regression.md)
       * Polynomial regression
