@@ -46,6 +46,9 @@
         * [Stopping Param](learning/supervised-learning/paramters/stopping-param.md)
       * [Parameter Comparison of Decision Trees and Random Forests](learning/supervised-learning/parameter-comparison-of-decision-trees-and-random-forests.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
+    * [Clustering](learning/unsupervised-learning/clustering.md)
+      * test
+      * [KMeans Clustering](learning/unsupervised-learning/kmeans-clustering.md)
   * [Semi-supervised learning](learning/semi-supervised-learning.md)
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Learning Means What](learning/learning-means-what.md)
