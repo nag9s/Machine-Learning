@@ -6,3 +6,5 @@ It stores its values as RDDs of tuples \(\(i,j\), Matrix\). In other words, Bloc
 
 BlockMatrix is the only distributed implementation with methods for adding and multiplying other distributed matrices.
 
+![](/assets/blockMat.png)
+
