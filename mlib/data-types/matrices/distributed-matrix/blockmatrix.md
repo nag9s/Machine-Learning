@@ -8,3 +8,5 @@ BlockMatrix is the only distributed implementation with methods for adding and m
 
 ![](/assets/blockMat.png)
 
+![](/assets/blockM2.png)
+
