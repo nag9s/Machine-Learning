@@ -37,6 +37,7 @@
         * [Parameters](learning/supervised-learning/classification/decision-trees/parameters.md)
           * [Non Tunable Or Specificable](learning/supervised-learning/classification/decision-trees/parameters/non-tunable-or-specificable.md)
           * [Tunable](learning/supervised-learning/classification/decision-trees/parameters/tunable.md)
+          * [Stopping Parameters](learning/supervised-learning/classification/decision-trees/parameters/stopping-parameters.md)
     * [Random Forest](learning/supervised-learning/random-forest.md)
       * [Logistic Regression Versus Random Forest](learning/supervised-learning/logistic-regression-versus-random-forest.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
