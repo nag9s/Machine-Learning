@@ -14,9 +14,9 @@
       * [Linear regression](learning/supervised-learning/linear-regression.md)
         * The ordinary least squares technique
         * The gradient descent technique
-        * The co-efficient of determination or r-squared
-          * Computing r-squared
-          * Interpreting r-squared
+        * [The co-efficient of determination or r-squared](learning/supervised-learning/linear-regression/the-co-efficient-of-determination-or-r-squared.md)
+          * [Computing r-squared](learning/supervised-learning/linear-regression/the-co-efficient-of-determination-or-r-squared/computing-r-squared.md)
+          * [Interpreting r-squared](learning/supervised-learning/linear-regression/the-co-efficient-of-determination-or-r-squared/interpreting-r-squared.md)
         * [Assumptions of linear regression](learning/supervised-learning/linear-regression/assumptions-of-linear-regression.md)
         * [Steps applied in linear regression modeling](learning/supervised-learning/linear-regression/steps-applied-in-linear-regression-modeling.md)
         * [Evaluation Metrics Linear Regression](learning/supervised-learning/linear-regression/evaluation-metrics-linear-regression.md)
