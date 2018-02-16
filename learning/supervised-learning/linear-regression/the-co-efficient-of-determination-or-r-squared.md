@@ -10,9 +10,9 @@ how do I know how good my regression is? How well does my line fit my data? That
 
 It is the fraction of the total variation in Y that is captured by your models. So how well does your line follow that variation that's happening? Are we getting an equal amount of variance on either side of your line or not? That's what r-squared is measuring.
 
-
-
 # Interpreting r-squared
+
+https://www.safaribooksonline.com/library/view/hands-on-data-science/9781787280748/290c1421-7217-43b3-8276-466d2bfe70fb.xhtml
 
 
 
