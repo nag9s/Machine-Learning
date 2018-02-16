@@ -14,3 +14,13 @@ When _λ=0_, the penalty has no impact, ridge/lasso produces the same result as 
 
 ![](/assets/re1.png)
 
+https://www.safaribooksonline.com/library/view/scala-machine-learning/9781788479042/5355fd2b-8e0c-4bf8-a3f3-9e2ad9de7327.xhtml
+
+
+
+**Logistic regression** \(**LR**\) belongs to the family of regression algorithms. The goal of regression is to find relationships and dependencies between variables. It models the relationship between a continuous scalar dependent variable _y_ \(that is, label or target\) and one or more \(a D-dimensional vector\) explanatory variable \(also independent variables, input variables, features, observed data, observations, attributes, dimensions, and data points\) denoted as _x_ using a linear function:
+
+
+
+![](/assets/lr2.png)
+
