@@ -119,13 +119,14 @@
   * [Linear algebra in Spark ](mlib/linear-algebra-in-spark.md)
 * [Terminology](terminology.md)
 * [Machine Learning Steps](machine-learning-steps.md)
+  * test
+* [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [The importance of variables feature selection/attribute selection](the-importance-of-variables-feature-selectionattribute-selection.md)
   * [Feature Selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection.md)
     * [forward selection](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/forward-selection.md)
     * mixed selection or bidirectional elimination
     * backward selection or backward elimination
     * [The key metrics to focus on](the-importance-of-variables-feature-selectionattribute-selection/feature-selection/the-key-metrics-to-focus-on.md)
-* [Preprocessing and Feature selection techniues](preprocessing-and.md)
 * [Feature engineering](feature-engineering.md)
 * [Hyperplanes](hyperplanes.md)
 * [cross-validation](cross-validation.md)
@@ -136,4 +137,5 @@
 * [Why are matrices/vectors used in machine learning/data analysis?](why-are-matricesvectors-used-in-machine-learningdata-analysis.md)
   * [Linear Algebra](why-are-matricesvectors-used-in-machine-learningdata-analysis/linear-algebra.md)
 * [OverView](overview.md)
+* [Data scaling and normalization](data-scaling-and-normalization.md)
 
