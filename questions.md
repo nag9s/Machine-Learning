@@ -8,7 +8,5 @@ This is because of the danger of overfitting, that is, fitting a model that is r
 
 [https://www.safaribooksonline.com/library/view/java-data-science/9781788475655/0218d109-413a-4e88-a4ae-9a2d6fdf0bc7.xhtml](https://www.safaribooksonline.com/library/view/java-data-science/9781788475655/0218d109-413a-4e88-a4ae-9a2d6fdf0bc7.xhtml)
 
-
-
-Why cant we use Logistic Regression Metrics to evaluate Linear Regression models ?
+**Why cant we use Logistic Regression Metrics to evaluate Linear Regression models ?**
 
