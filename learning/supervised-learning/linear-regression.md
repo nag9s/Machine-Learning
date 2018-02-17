@@ -20,13 +20,11 @@ When _λ=0_, the penalty has no impact, ridge/lasso produces the same result as 
 
 ![](/assets/lr2.png)
 
-
-
-LR models the relationship between a dependent variable _y,_ which involves a linear combination of interdependent variables _xi_. The letters _A_ and _B_ represent constants that describe the _y_ axis intercept and the slope of the line respectively:
+LR models the relationship between a dependent variable _y,_ which involves a linear combination of interdependent variables _xi_. The letters _A_ and _B_ represent constants that describe the _y_ axis intercept and the slope of the line respectively:
 
 _y = A+Bx_
 
-_Figure 9_, _Regression graph separates data points \(in red dots\) and the blue line is regression_ shows an example of simple LR with one independent variable—that is, a set of data points and a **best fit** line, which is the result of the regression analysis itself. It can be observed that the line does not actually pass through all of the points.
+_Figure 9_, _Regression graph separates data points \(in red dots\) and the blue line is regression_ shows an example of simple LR with one independent variable—that is, a set of data points and a **best fit** line, which is the result of the regression analysis itself. It can be observed that the line does not actually pass through all of the points.
 
 The distance between any data points \(measured\) and the line \(predicted\) is called the regression error. Smaller errors contribute to more accurate results in predicting unknown values. When the errors are reduced to their smallest levels possible, the line of best fit is created for the final regression error. Note that there are no single metrics in terms of regression errors; there are several as follows:
 
