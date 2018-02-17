@@ -18,9 +18,7 @@ how do I know how good my regression is? How well does my line fit my data? That
 
 As you'll see in the coming sections, there's more than one way to do regression. Linear regression is one of them. It's a very simple technique, but there are other techniques as well, and you can use r-squared as a quantitative measure of how good a given regression is to a set of data points, and then use that to choose the model that best fits your data.
 
-
-
-# Computing r-squared
+# 
 
 
 
