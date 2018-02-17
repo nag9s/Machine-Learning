@@ -59,7 +59,7 @@
   * [Reinforcement learning](learning/reinforcement-learning.md)
   * [Learning Means What](learning/learning-means-what.md)
   * [Goal](learning/goal.md)
-  * evaluation metrics
+  * [evaluation metrics](learning/evaluation-metrics.md)
     * [Regression](learning/regression.md)
       * [MSE And Root Mean Squared Error \(RMSE\)](learning/regression/root-mean-squared-error-rmse.md)
       * [Mean Absolute Error \(MAE\)](learning/regression/mean-absolute-error-mae.md)
