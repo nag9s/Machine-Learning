@@ -8,7 +8,7 @@ The R-squared coefficient, also known as the coefficient of determination, is a 
 
 how do I know how good my regression is? How well does my line fit my data? That's where r-squared comes in, and r-squared is also known as the coefficient of determination. Again, someone trying to sound smart might call it that, but usually it's called r-squared.
 
-It is the fraction of the total variation in Y that is captured by your models. So how well does your line follow that variation that's happening? Are we getting an equal amount of variance on either side of your line or not? That's what r-squared is measuring.
+**It is the fraction of the total variation in Y that is captured by your models.** So how well does your line follow that variation that's happening? Are we getting an equal amount of variance on either side of your line or not? That's what r-squared is measuring.
 
 # Interpreting r-squared
 
