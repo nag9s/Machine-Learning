@@ -140,4 +140,5 @@
   * [Linear Algebra](why-are-matricesvectors-used-in-machine-learningdata-analysis/linear-algebra.md)
 * [OverView](overview.md)
 * [Data scaling and normalization](data-scaling-and-normalization.md)
+* [Questions](questions.md)
 
