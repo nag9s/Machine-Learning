@@ -34,11 +34,15 @@ An example of a high variance model is a decision tree, in which the model may c
 
 At the moment, **state-of-the-art models are utilizing high variance models such as decision trees and performing ensemble on top of them to reduce the errors caused by high variance and at the same time not compromising on increases in errors due to the bias component. The best example of this category is random forest, in which many decision trees will be grown independently and ensemble in order to come up with the best fit;**
 
-
-
 ![](/assets/bv3.png)
 
+overfitting could be reduced by cross validation  [https://www.safaribooksonline.com/library/view/python-machine-learning/9781783553112/52252c1e-1f6c-40a3-b90a-1afd1ab3f2bd.xhtml](https://www.safaribooksonline.com/library/view/python-machine-learning/9781783553112/52252c1e-1f6c-40a3-b90a-1afd1ab3f2bd.xhtml)
 
 
-overfitting could be reduced by cross validation  https://www.safaribooksonline.com/library/view/python-machine-learning/9781783553112/52252c1e-1f6c-40a3-b90a-1afd1ab3f2bd.xhtml
+
+https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml
+
+Bias happens when a machine learning model is too 'simple', leading to results that are consistently off from the actual values.
+
+Variance happens when a model is too 'complex', leading to results that are very accurate on test datasets, but do not perform well on unseen/new datasets.
 
