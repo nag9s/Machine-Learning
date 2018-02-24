@@ -22,9 +22,19 @@ This is bias-variance trade-off. You know the decision you have to make between 
 
 Decision trees is another example. We know that a single decision tree is prone to overfitting, so that might imply that it has a high variance. But, random forests seek to trade off some of that variance for bias reduction, and it does that by having multiple trees that are randomly variant and averages all their solutions together. It's like when we average things out by increasing K in KNN: we can average out the results of a decision tree by using more than one decision tree using random forests similar idea.
 
-
-
-https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/16bf3b8e-a897-45a8-8959-e3d2e1d0ec5b.xhtml
+[https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/16bf3b8e-a897-45a8-8959-e3d2e1d0ec5b.xhtml](https://www.safaribooksonline.com/library/view/statistics-for-machine/9781788295758/16bf3b8e-a897-45a8-8959-e3d2e1d0ec5b.xhtml)
 
 Every model has both bias and variance error components in addition to white noise. Bias and variance are inversely related to each other; while trying to reduce one component, the other component of the model will increase. The true art lies in creating a good fit by balancing both. The ideal model will have both low bias and low variance.
+
+
+
+Errors from the bias component come from erroneous assumptions in the underlying learning algorithm. High bias can cause an algorithm to miss the relevant relations between features and target outputs; this phenomenon causes an underfitting problem.
+
+
+
+An example of a high bias model is logistic or linear regression, in which the fit of the model is merely a straight line and may have a high error component due to the fact that a linear model could not approximate underlying data well.
+
+An example of a high variance model is a decision tree, in which the model may create too much wiggly curve as a fit, in which even a small change in training data will cause a drastic change in the fit of the curve.
+
+At the moment, state-of-the-art models are utilizing high variance models such as decision trees and performing ensemble on top of them to reduce the errors caused by high variance and at the same time not compromising on increases in errors due to the bias component. The best example of this category is random forest, in which many decision trees will be grown independently and ensemble in order to come up with the best fit;
 
