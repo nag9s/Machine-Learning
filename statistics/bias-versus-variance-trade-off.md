@@ -38,9 +38,7 @@ At the moment, **state-of-the-art models are utilizing high variance models such
 
 overfitting could be reduced by cross validation  [https://www.safaribooksonline.com/library/view/python-machine-learning/9781783553112/52252c1e-1f6c-40a3-b90a-1afd1ab3f2bd.xhtml](https://www.safaribooksonline.com/library/view/python-machine-learning/9781783553112/52252c1e-1f6c-40a3-b90a-1afd1ab3f2bd.xhtml)
 
-
-
-https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml
+[https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml](https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml)   - had very good examples
 
 Bias happens when a machine learning model is too 'simple', leading to results that are consistently off from the actual values.
 
