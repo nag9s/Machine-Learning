@@ -8,7 +8,15 @@ So conceptually, bias and variance are pretty simple. **Bias is just how far off
 
 Let's look at some examples. Let's imagine that the following dartboard represents a bunch of predictions we're making where the real value we're trying to predict is in the center of the bullseye:
 
-
-
 ![](/assets/bv1.png)
+
+
+
+* Starting with the dartboard in the upper left-hand corner, you can see that our points are all scattered about the center. So overall, you know the mean error comes out to be pretty close to reality. Our bias is actually very low, because our predictions are all around the same correct point. However, we have very high variance, because these points are scattered about all over the place. So, this is an example of low bias and high variance.
+
+* If we move on to the dartboard in the upper right corner, we see that our points are all consistently skewed from where they should be, to the Northwest. So this is an example of high bias in our predictions, where they're consistently off by a certain amount. We have low variance because they're all clustered tightly around the wrong spot, but at least they're close together, so we're being consistent in our predictions. That's low variance. But, the bias is high. So again, this is high bias, low variance.
+* In the dartboard in the lower left corner, you can see that our predictions are scattered around the wrong mean point. So, we have high bias; everything is skewed to some place where it shouldn't be. But our variance is also high. So, this is kind of the worst of both worlds here; we have high bias and high variance in this example.
+* Finally, in a wonderful perfect world, you would have an example like the lower right dartboard, where we have low bias, where everything is centered around where it should be, and low variance, where things are all clustered pretty tightly around where they should be. So, in a perfect world that's what you end up with.
+
+
 
