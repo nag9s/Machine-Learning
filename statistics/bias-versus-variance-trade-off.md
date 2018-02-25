@@ -40,7 +40,7 @@ overfitting could be reduced by cross validation  [https://www.safaribooksonline
 
 [https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml](https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/bdcf17d5-249e-4c40-903b-bb42053c4552.xhtml)   - had very good examples
 
-Bias happens when a machine learning model is too 'simple', leading to results that are consistently off from the actual values.
+**Bias happens when a machine learning model is too 'simple', leading to results that are consistently off from the actual values.**
 
-Variance happens when a model is too 'complex', leading to results that are very accurate on test datasets, but do not perform well on unseen/new datasets.
+**Variance happens when a model is too 'complex', leading to results that are very accurate on test datasets, but do not perform well on unseen/new datasets.**
 
