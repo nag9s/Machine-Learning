@@ -14,3 +14,7 @@ If we test a series of input, we can get the result as follows:
 
 ![](/assets/gini2.png)
 
+So, as you can see in the preceding table, whenever the input value is less than 0, the output is 0. And whenever the input is greater than 0, the output is 1. This leads us to creating a perfect separation of the preceding data into two groups.
+
+There may be one more case when there is not necessarily a perfect separation \(or split\); for example, suppose we modify the preceding system as follows:
+
