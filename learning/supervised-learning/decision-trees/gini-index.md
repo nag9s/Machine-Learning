@@ -18,3 +18,5 @@ So, as you can see in the preceding table, whenever the input value is less than
 
 There may be one more case when there is not necessarily a perfect separation \(or split\); for example, suppose we modify the preceding system as follows:
 
+![](/assets/gini4.png)
+
