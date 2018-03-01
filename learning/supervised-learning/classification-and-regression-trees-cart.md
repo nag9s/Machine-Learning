@@ -6,3 +6,5 @@ The representation of CART is the binary tree only, and this is the same binary 
 
 Binary trees are different from other trees in the sense that in a normal tree structure, there may be any number of children for a parent node \(including root\); but in a binary tree, as its name suggests, any parent node can have a maximum of two branches \(or nodes\). This figure shows a representation of a simple binary tree:
 
+![](/assets/CART1.png)
+
