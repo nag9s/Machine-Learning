@@ -20,3 +20,5 @@ There may be one more case when there is not necessarily a perfect separation \(
 
 ![](/assets/gini4.png)
 
+![](/assets/gini5.png)
+
