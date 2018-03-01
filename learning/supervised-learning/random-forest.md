@@ -49,3 +49,9 @@ This figure gives you an idea about bagged decision trees:
 
 ![](/assets/Rf4.png)
 
+
+
+Let's try to understand it with the help of a problem. Do you remember we opened a fund adviser company in the last chapter and it can successfully choose its target customers using a decision tree? Now, after some months \(or years\) of effort, we are the topmost investment adviser group and want to expand our business throughout the country. So when we start expanding our business in different regions of our country, we will meet different kinds of customers. And there will be more parameters to add to our dataset, such as the financial status of a state, city, or village, educational status of the targeted region \(number of uneducated, graduate, and postgraduate investors, and so on\), and many more factors such as urban and rural lifestyle. So, there are many different parameters possible to create a strong dataset through which we can reach our target investors.
+
+When we increase the number of parameters in our dataset, it becomes more complex, not only due to the more number of parameters, but also due to the need to include numerical values. So this dataset will not suit the decision tree algorithm learned in [Chapter 2](https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/d0e712f5-cbda-4311-91b0-69eecadff995.xhtml), _Decision Trees_. What! So, what we will do? One solution is to create a tree that can handle numerical values to create nodes and branches. How to do it? The answer is the **Classification and Regression Trees** \(**CART**\) algorithm, which is widely used to create decision trees. It is also the building block of our random forest algorithm.
+
