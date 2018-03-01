@@ -21,3 +21,5 @@ Regardless of what the fourth tree produced, the majority agreed by a different 
 
 ![](/assets/rf3.png)
 
+Majority decision of a random forest. Here, several trees based on a random collection of variables, arrive at 9 as a decision. By arriving at a similar answer based on different input generally reinforces the model.
+
