@@ -41,7 +41,9 @@ Random forests also implement another level of operation beyond simple bagging. 
 
 [https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml](https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml)
 
+the real world is not as easy as the conceptual world; you will not always get an ideal categorical dataset with only a few attribute values. Real-world data may be far bigger than you think. It may have millions of instances \(such as a dataset of a census analysis\) with many more attributes \(in hundreds\). In such cases, it is impossible to use a single decision tree to get predictions. So, what do you think is the solution? Yes! We have to **divide and conquer **; you get it, right? Increase the number of trees and divide the dataset into different trees.
 
+Creating multiple trees out of a single dataset and then combining the predictions of all of them is known as **tree bagging**, which is a widely used method by the machine learning community. This group of multiple trees is known as a decision tree forest, and when we create this forest using randomly selected samples \(in combination with randomly selected features\) out of our dataset, this forest is known as a **random forest**.
 
- the real world is not as easy as the conceptual world; you will not always get an ideal categorical dataset with only a few attribute values. Real-world data may be far bigger than you think. It may have millions of instances \(such as a dataset of a census analysis\) with many more attributes \(in hundreds\). In such cases, it is impossible to use a single decision tree to get predictions. So, what do you think is the solution? Yes! We have to **divide and conquer **; you get it, right? Increase the number of trees and divide the dataset into different trees.
+This figure gives you an idea about bagged decision trees:
 
