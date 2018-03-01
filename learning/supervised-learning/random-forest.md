@@ -47,3 +47,5 @@ Creating multiple trees out of a single dataset and then combining the predictio
 
 This figure gives you an idea about bagged decision trees:
 
+![](/assets/Rf4.png)
+
