@@ -6,5 +6,7 @@ Gini index is the cost function used to evaluate splits \(nodes\) in the dataset
 
 Gini score can be used to know the impurity of our dataset just like the information gain of the attribute. But here, it works a bit differently; Gini score suggests how well the dataset can be separated. Let's understand this with an example.
 
+Suppose we have a system that generates 0 at the output whenever the input is less than 0 and generates 1 at the output whenever the input is greater than or equal to 0. We want to write it in the form of an equation:
 
+![](/assets/gini1.png)
 
