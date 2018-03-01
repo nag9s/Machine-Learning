@@ -27,19 +27,19 @@ Majority decision of a random forest. Here, several trees based on a random coll
 
 [https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/cb68c914-4bc1-4dbd-82fe-842c0db5b4fd.xhtml](https://www.safaribooksonline.com/library/view/practical-big-data/9781783554393/cb68c914-4bc1-4dbd-82fe-842c0db5b4fd.xhtml)
 
-
-
 Random forest is an extension of the decision tree model that we just discussed. In practice, Decision Trees are simple to understand, simple to interpret, fast to create using available algorithms, and overall, intuitive. However, Decision Trees are sensitive to small changes in the data, permit splits only along an axis \(linear splits\) and can lead to overfitting. To mitigate some of the drawbacks of decision trees, whilst still getting the benefit of their elegance, algorithms such as Random Forest create multiple decision trees and sample random features to leverage and build an aggregate model.
 
 Random forest works on the principle of bootstrap aggregating or bagging. Bootstrap is a statistical term indicating random sampling with replacement. **Bootstrapping a given set of records means taking a random number of records and possibly including the same record multiple times in a sample. Thereafter, the user would measure their metric of interest on the sample and then repeat the process.** In this manner, the distribution of the values of the metric calculated from random samples multiple times is expected to represent the distribution of the population, and so the entire dataset.
 
+**An example of Bagging a set of 3 numbers, such as \(1,2,3,4\), would be:**
 
-
-An example of Bagging a set of 3 numbers, such as \(1,2,3,4\), would be:
-
-\(1,2,3\), \(1,1,3\), \(1,3,3\), \(2,2,1\), and others.
+**\(1,2,3\), \(1,1,3\), \(1,3,3\), \(2,2,1\), and others.**
 
 Bootstrap Aggregating, or _bagging_, implies leveraging a voting method using _multiple bootstrap samples_ at a time, building a model on each individual sample \(set of n records\) and then finally aggregating the results.
 
 Random forests also implement another level of operation beyond simple bagging. It also randomly selects the variables to be included in the model building process at each split. For instance, if we were to create a random forest model using the PimaIndiansDiabetes dataset with the variables pregnant, glucose, pressure, triceps, insulin, mass, pedigree, age, and diabetes, in each bootstrap sample \(draw of n records\), we would select a random subset of features with which to build the model--for instance, glucose, pressure, and insulin; insulin, age, and pedigree; triceps, mass, and insulin; and others.
+
+
+
+https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml
 
