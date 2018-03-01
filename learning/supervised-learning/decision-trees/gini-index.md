@@ -10,3 +10,7 @@ Suppose we have a system that generates 0 at the output whenever the input is le
 
 ![](/assets/gini1.png)
 
+If we test a series of input, we can get the result as follows:
+
+![](/assets/gini2.png)
+
