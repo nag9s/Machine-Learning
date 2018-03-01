@@ -10,3 +10,5 @@ Binary trees are different from other trees in the sense that in a normal tree s
 
 This tree is a subtree that we created in the previous chapter. Here, you can see that each node has a maximum of two children. One more thing to add in here—when we work with numerical values as attribute values, our binary tree will look like this:
 
+![](/assets/CART2.png)
+
