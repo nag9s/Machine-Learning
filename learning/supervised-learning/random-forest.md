@@ -39,7 +39,9 @@ Bootstrap Aggregating, or _bagging_, implies leveraging a voting method using _m
 
 Random forests also implement another level of operation beyond simple bagging. It also randomly selects the variables to be included in the model building process at each split. For instance, if we were to create a random forest model using the PimaIndiansDiabetes dataset with the variables pregnant, glucose, pressure, triceps, insulin, mass, pedigree, age, and diabetes, in each bootstrap sample \(draw of n records\), we would select a random subset of features with which to build the model--for instance, glucose, pressure, and insulin; insulin, age, and pedigree; triceps, mass, and insulin; and others.
 
+[https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml](https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml)
 
 
-https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/10bf8a39-d15f-4bb3-8c39-9f2795865462.xhtml
+
+ the real world is not as easy as the conceptual world; you will not always get an ideal categorical dataset with only a few attribute values. Real-world data may be far bigger than you think. It may have millions of instances \(such as a dataset of a census analysis\) with many more attributes \(in hundreds\). In such cases, it is impossible to use a single decision tree to get predictions. So, what do you think is the solution? Yes! We have to **divide and conquer **; you get it, right? Increase the number of trees and divide the dataset into different trees.
 
