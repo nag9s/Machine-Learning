@@ -48,6 +48,7 @@
         * [Stopping Param](learning/supervised-learning/paramters/stopping-param.md)
       * [Parameter Comparison of Decision Trees and Random Forests](learning/supervised-learning/parameter-comparison-of-decision-trees-and-random-forests.md)
       * [Classification and Regression Trees \(CART\)](learning/supervised-learning/classification-and-regression-trees-cart.md)
+    * Decision Trees
   * [Unsupervised learning](learning/unsupervised-learning.md)
     * [Clustering](learning/unsupervised-learning/clustering.md)
       * test
