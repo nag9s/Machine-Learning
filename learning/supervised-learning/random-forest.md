@@ -15,7 +15,9 @@ Random forests extend bagging by not only selecting a random sample set, but als
 * Most trees are accurate, and provide correct predictions for most data
 * Errors in the decision tree may happen at different places, in different trees
 
-This is the rule of _group think_ and _majority decisions_. If the outcome of several trees agree with each other even though they arrived at that decision through different paths and a single tree is an outlier, one will naturally side with the majority. This creates a model with low variance, compared to a single decision tree model that can be extremely biased. We can see the following example with four trees in a random forest. Each has been trained on a different subset of data, and have chosen random variables. The result of the flow is that three of the trees produce a result of **9**, while the fourth tree produces a different result.
+This is the rule of _group think_ and _majority decisions_. If the outcome of several trees agree with each other even though they arrived at that decision through different paths and a single tree is an outlier, one will naturally side with the majority. This creates a model with low variance, compared to a single decision tree model that can be extremely biased. We can see the following example with four trees in a random forest. Each has been trained on a different subset of data, and have chosen random variables. The result of the flow is that three of the trees produce a result of **9**, while the fourth tree produces a different result.
 
 Regardless of what the fourth tree produced, the majority agreed by a different data set, different variable, and different tree structures that the result of the logic should be a **9**:
+
+![](/assets/rf3.png)
 
