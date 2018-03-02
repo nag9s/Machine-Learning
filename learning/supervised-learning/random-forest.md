@@ -55,3 +55,19 @@ Let's try to understand it with the help of a problem. Do you remember we opened
 
 When we increase the number of parameters in our dataset, it becomes more complex, not only due to the more number of parameters, but also due to the need to include numerical values. So this dataset will not suit the decision tree algorithm learned in [Chapter 2](https://www.safaribooksonline.com/library/view/ensemble-machine-learning/9781788297752/d0e712f5-cbda-4311-91b0-69eecadff995.xhtml), _Decision Trees_. **What! So, what we will do? One solution is to create a tree that can handle numerical values to create nodes and branches. How to do it? The answer is the Classification and Regression Trees \(CART\) algorithm, which is widely used to create decision trees. It is also the building block of our random forest algorithm.**
 
+
+
+https://www.safaribooksonline.com/library/view/scikit-learn-cookbook-/9781787286382/d00d47f5-f260-4bb5-8da1-b02576f7fe26.xhtml
+
+**Random forests is an ensemble algorithm. Ensemble algorithms use several algorithms together to improve predictions.** Scikit-learn has several ensemble algorithms, most of which use trees to predict. Let's start by expanding on decision tree regression with several decision trees working together in a random forest.
+
+**A random forest is a mixture of several decision trees, where each tree provides a single vote toward the final prediction. The final random forest calculates a final output by averaging the results of all the trees it is composed of.**
+
+
+
+https://www.safaribooksonline.com/library/view/data-science-algorithms/9781787284586/d3b68421-3185-4742-ae05-31b203502148.xhtml
+
+# Random Forest
+
+A random forest is a set of random decision trees \(similar to the ones described in the previous chapter\), each generated on a random subset of the data. A random forest classifies the feature to belong to the class that is voted for by the majority of the random decision trees. A random forest tends to provide a more accurate classification of a feature than a decision tree because of the decreased bias and variance.
+
