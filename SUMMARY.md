@@ -50,6 +50,7 @@
       * [Classification and Regression Trees \(CART\)](learning/supervised-learning/classification-and-regression-trees-cart.md)
       * [How random forest works](learning/supervised-learning/how-random-forest-works.md)
       * [Terminologies related to random forest algorithm](learning/supervised-learning/terminologies-related-to-random-forest-algorithm.md)
+      * [Out-of-Bag Error](learning/supervised-learning/out-of-bag-error.md)
     * [Decision Trees](learning/supervised-learning/decision-trees.md)
       * [Gini Index](learning/supervised-learning/decision-trees/gini-index.md)
   * [Unsupervised learning](learning/unsupervised-learning.md)
