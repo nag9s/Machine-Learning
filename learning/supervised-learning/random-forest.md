@@ -1,8 +1,6 @@
 ![](/assets/rf1.png)
 
-https://www.listendata.com/2014/11/random-forest-with-r.html
-
-
+[https://www.listendata.com/2014/11/random-forest-with-r.html](https://www.listendata.com/2014/11/random-forest-with-r.html)
 
 [https://www.safaribooksonline.com/library/view/internet-of-things/9781788470599/e3418e8b-ac43-424b-887a-7882f154af7f.xhtml](https://www.safaribooksonline.com/library/view/internet-of-things/9781788470599/e3418e8b-ac43-424b-887a-7882f154af7f.xhtml)
 
@@ -16,7 +14,7 @@ The output of the random forest training processes a decision tree based on a ra
 
 Random forest model. Here, two forests are constructed to pick a random, but not the whole set of variables.
 
-Random forests extend bagging by not only selecting a random sample set, but also a subset of the number of features being qualified. This can be seen in the preceding image. This is counter-intuitive, since you want to train on as much data as possible. The rationale is that:
+**Random forests extend bagging by not only selecting a random sample set, but also a subset of the number of features being qualified.** This can be seen in the preceding image. This is counter-intuitive, since you want to train on as much data as possible. The rationale is that:
 
 * Most trees are accurate, and provide correct predictions for most data
 * Errors in the decision tree may happen at different places, in different trees
