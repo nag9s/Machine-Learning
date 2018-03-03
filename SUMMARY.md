@@ -147,4 +147,5 @@
 * [OverView](overview.md)
 * [Data scaling and normalization](data-scaling-and-normalization.md)
 * [Questions](questions.md)
+* [Which machine learning algorithm should I use?](which-machine-learning-algorithm-should-i-use.md)
 
